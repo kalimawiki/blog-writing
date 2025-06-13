@@ -1,0 +1,33 @@
+baseURL = "http://localhost:1313/"
+title = "Kalima Wiki"
+theme = "PaperMod"
+languageCode = "en-us"
+
+[params]
+  author = "Kalima Wiki"
+  defaultTheme = "auto"
+  showReadingTime = true
+  showToc = true
+  showBreadCrumbs = true
+  ShowShareButtons = true
+  defaultCover = "https://res.cloudinary.com/dxyptrt7m/image/upload/v1749811928/tdnrapyunqagptn0hbca.jpg"
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[pagination]
+  pagerSize = 5
