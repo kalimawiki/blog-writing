@@ -3,9 +3,10 @@ title: "How AI Revolutionizes Drug Discovery"
 date: 2025-06-14T14:17:07.646-04:00
 draft: false
 tags: ["AI", "Pharmaceutical", "Drug Discovery"]
+cover:
+        image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1749925306/klff4cd4seslcvvmy3fg.jpg"
+        alt: "A cover image for How AI Revolutionizes Drug Discover"
 ---
-
-![Cover Image for AI in Drug Discovery](https://res.cloudinary.com/dxyptrt7m/image/upload/v1749925306/klff4cd4seslcvvmy3fg.jpg)
 
 ## Introduction
 The traditional drug discovery process is often lengthy, costly, and fraught with uncertainties. It typically takes over a decade and billions of dollars to bring a new drug to market. However, the advent of artificial intelligence (AI) technologies is revolutionizing these practices, promising to make drug discovery faster, more efficient, and less expensive.
