@@ -3,7 +3,6 @@
     date: 2025-06-14T03:52:27.179-04:00
     draft: false
     tags: ["AI", "pharmaceutical industry", "future trends", "automation"]
-    buildFuture = true
 ---
 
 ## Introduction
