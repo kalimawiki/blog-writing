@@ -3,7 +3,7 @@
     date: 2025-06-14T03:52:27.179-04:00
     draft: false
     tags: ["AI", "pharmaceutical industry", "future trends", "automation"]
-    ---
+---
 
 ## Introduction
 AI has significantly impacted the pharmaceutical industry, driving innovations from drug discovery to patient care. As we look to the future, the trends in AI technology are set to transform this field even further.
