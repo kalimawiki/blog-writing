@@ -3,6 +3,9 @@
     date: 2025-06-14T03:52:27.179-04:00
     draft: false
     tags: ["AI", "pharmaceutical industry", "future trends", "automation"]
+    cover:
+        image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1749922877/nhan0uzvrd6gddhevbp3.jpg"
+        alt: "A cover image for Future Trends of AI in the Pharmaceutical Industry"
 ---
 
 ## Introduction
