@@ -30,6 +30,11 @@ buildFuture = true
     url = "/about/"
     weight = 3
 
+  [[menu.main]]
+    name = "Contact"
+	  url = "/contact/"
+	  weight = 4
+
 [pagination]
   pagerSize = 5
 
