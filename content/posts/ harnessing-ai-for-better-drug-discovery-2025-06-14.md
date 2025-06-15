@@ -1,6 +1,6 @@
 ---
 title: "Harnessing AI for Better Drug Discovery"
-date: 2023-10-14T15:27:10.809-04:00
+date: 2025-06-14T15:27:10.809-04:00
 draft: false
 tags: ["AI", "drug discovery", "pharmaceuticals"]
 cover:
