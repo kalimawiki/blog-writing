@@ -2,10 +2,10 @@
 title: "Contact"
 date: 2025-06-16
 type: "page"
-ShowBreadCrumbs: false
-ShowDate: false
-ShowReadingTime: false
-ShowAuthor: false
+showBreadCrumbs: false
+showDate: false
+showReadingTime: false
+showAuthor: false
 ---
 
 <style>
