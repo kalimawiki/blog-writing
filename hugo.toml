@@ -9,7 +9,7 @@ buildFuture = true
   defaultTheme = "auto"
   showReadingTime = true
   showToc = true
-  showBreadCrumbs = fales
+  showBreadCrumbs = false
   ShowShareButtons = true
   defaultCover = "https://res.cloudinary.com/dxyptrt7m/image/upload/v1749811928/tdnrapyunqagptn0hbca.jpg"
 
