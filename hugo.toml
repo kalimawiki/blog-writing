@@ -2,6 +2,7 @@ baseURL = "https://kalimawiki-preview.vercel.app/"
 title = "Kalima Wiki"
 theme = "PaperMod"
 languageCode = "en-us"
+buildFuture = true
 
 [params]
   author = "Kalima Wiki"
@@ -28,6 +29,11 @@ languageCode = "en-us"
     name = "About"
     url = "/about/"
     weight = 3
-
+	
+  [[menu.main]]
+    name = "Contact"
+	  url = "/contact/"
+	  weight = 4
+ 
 [pagination]
   pagerSize = 5
