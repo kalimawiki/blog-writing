@@ -11,7 +11,9 @@ cover:
 # Introduction
 Artificial intelligence (AI) is revolutionizing the pharmaceutical industry, enabling faster and more efficient drug discovery. In this blog post, we will explore notable pharmaceutical companies and startups that are leveraging AI to enhance their research and drug development processes.
 
+
 ![AI in the lab](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750004466/rldlyh4igujc0eztoxkx.jpg)
+
 
 # Current Notable Pharmaceutical Companies/Startups
 
@@ -79,7 +81,9 @@ Artificial intelligence (AI) is revolutionizing the pharmaceutical industry, ena
 - **Current Pipelines**: Focused on repurposing existing compounds for treatments against respiratory diseases, including COVID-19.
 - **Recent News**: Recently published favorable results regarding the efficacy of certain drugs in treating specific conditions.
 
+
 ![AI & Drug research](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750004548/zhhjgware4dwtramc3j9.jpg)
+
 
 # Conclusion
 The integration of AI in pharmaceutical research and drug development is revolutionizing the industry, allowing companies to accelerate discovery timelines and improve the efficiency of clinical trials. As these notable companies demonstrate, the potential of AI technologies extends beyond just innovation; they are shaping the future of medicine and enhancing patient outcomes. The continuous advancements and collaborations in this field promise a transformative impact on how drugs are discovered, developed, and delivered to patients worldwide.
