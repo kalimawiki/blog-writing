@@ -1,0 +1,42 @@
+---
+title: "Contact"
+date: 2025-06-14
+type: "page"
+---
+
+<style>
+  .form-field {
+    width: 100%;
+    padding: 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+  .form-button {
+    background-color: #007bff;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .form-button:hover {
+    background-color: #0056b3;
+  }
+</style>
+
+<form action="https://formspree.io/f/mgvyyzqo" method="POST" style="max-width: 500px; margin-top: 1rem;">
+  <label for="name">Name:</label><br>
+  <input type="text" name="name" required class="form-field"><br>
+
+  <label for="email">Email:</label><br>
+  <input type="email" name="_replyto" required class="form-field"><br>
+
+  <label for="message">Message:</label><br>
+  <textarea name="message" rows="5" required class="form-field"></textarea><br>
+
+  <button type="submit" class="form-button">Send</button>
+</form>
+
