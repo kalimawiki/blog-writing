@@ -4,7 +4,7 @@ date: ""
 type: "page"
 author: " "
 showBreadCrumbs: false
-showdate: false
+showDate: false
 showReadingTime: false
 ---
 
