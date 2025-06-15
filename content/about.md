@@ -1,7 +1,11 @@
 ---
 title: "About"
-date: 2025-06-14
+date: ""
 type: "page"
+author: " "
+showBreadCrumbs: false
+showdate: false
+showReadingTime: false
 ---
 
 Welcome to **Kalima Wiki** — a curated source of insights about AI in pharmaceuticals and drug discovery.
