@@ -10,11 +10,11 @@ cover:
 
 ## 1. Introduction
 
-Imagine a world where cutting-edge artificial intelligence accelerates the discovery of life-saving drugs2mdash;transforming years of painstaking research into months, and enabling breakthroughs once thought impossible. This is no longer science fiction. Leading the charge in this revolution is Insilico Medicine, a trailblazing biotech company that stands among the pioneers harnessing AIs transformative power to redefine pharmaceutical research and drug discovery.
+Imagine a world where cutting-edge artificial intelligence accelerates the discovery of life-saving drugs-transforming years of painstaking research into months, and enabling breakthroughs once thought impossible. This is no longer science fiction. Leading the charge in this revolution is Insilico Medicine, a trailblazing biotech company that stands among the pioneers harnessing AI's transformative power to redefine pharmaceutical research and drug discovery.
 
-With its visionary approach, Insilico Medicine leverages advanced machine learning algorithms and proprietary AI platforms to unlock hidden biological insights, generate novel drug candidates, and streamline clinical development like never before. Their innovative technologies and bold mission place them at the forefront of a new era2mdash;where AI-driven innovation promises to deliver faster, smarter, and more precise medicines to patients worldwide.
+With its visionary approach, Insilico Medicine leverages advanced machine learning algorithms and proprietary AI platforms to unlock hidden biological insights, generate novel drug candidates, and streamline clinical development like never before. Their innovative technologies and bold mission place them at the forefront of a new era - where AI-driven innovation promises to deliver faster, smarter, and more precise medicines to patients worldwide.
 
-In this blog, we take a deep dive into Insilico Medicines journey, technologies, partnerships, and pipeline, exploring how they are not just participating in the future of drug discovery but actively shaping it.
+In this blog, we take a deep dive into Insilico Medicine's journey, technologies, partnerships, and pipeline, exploring how they are not just participating in the future of drug discovery but actively shaping it.
 
 ![AI-driven Drug Discovery Lab](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750176760/fuapood8ngpl4nqnykxw.jpg)
 
@@ -48,7 +48,7 @@ Insilico Medicine has succeeded in building strong alliances with major players 
 
 ### Capital Raised and Funding Rounds
 
-Since inception, Insilico Medicine has raised over **$60 million** through multiple funding rounds, including seed, Series A, and strategic investments. Notable investors include **Pavilion Capital**, **Baidu Ventures**, **Eight Roads Ventures**, and other venture funds specialized in deep tech and life sciences. These funds have been instrumental in expanding their AI platform capabilities, accelerating pipeline development, and scaling laboratory validation efforts.
+Since its inception, Insilico Medicine has raised over **$60 million** through multiple funding rounds, including seed, Series A, and strategic investments. Notable investors include **Pavilion Capital**, **Baidu Ventures**, **Eight Roads Ventures**, and other venture funds specialized in deep tech and life sciences. These funds have been instrumental in expanding their AI platform capabilities, accelerating pipeline development, and scaling laboratory validation efforts.
 
 ### Current Financial Position and Development Milestones
 
@@ -58,9 +58,9 @@ Since inception, Insilico Medicine has raised over **$60 million** through multi
 
 ### Capital Outlook and Sustainability
 
-Thanks to the combination of invested capital, upfront payments, and structured milestone agreements, Insilico Medicine is well-positioned financially to sustain its operations and R&D activities through at least the next **3-5 years** without immediate need for additional fundraising. Their existing capital runway supports ongoing AI platform innovation, expansion of their drug discovery pipeline, and initial clinical validation efforts.
+Thanks to the combination of invested capital, upfront payments, and structured milestone agreements, Insilico Medicine is well-positioned financially to sustain its operations and R&D activities through at least the next **3-5 years** without an immediate need for additional fundraising. Their existing capital runway supports ongoing AI platform innovation, expansion of their drug discovery pipeline, and initial clinical validation efforts.
 
-The strategic focus on partnership-driven development and milestone-linked financing mitigates risks associated with traditional drug discovery’s high upfront costs. However, like all biotech ventures, they remain dependent on successful advancement of pipeline candidates and timely achievement of milestones to unlock further funds.
+The strategic focus on partnership-driven development and milestone-linked financing mitigates risks associated with traditional drug discovery’s high upfront costs. However, like all biotech ventures, they remain dependent on the successful advancement of pipeline candidates and the timely achievement of milestones to unlock further funds.
 
 ## 5. Current Pipeline & Candidate Drugs
 
@@ -74,7 +74,7 @@ Insilico Medicine’s pipeline features several AI-designed drug candidates targ
 
   - **Promising Results:** Early clinical data have shown Rentosertib to have an acceptable safety profile and encouraging anti-tumor activity, positioning it as a promising asset in Insilico Medicine’s pipeline with potential for future regulatory approval (Source: Insilico Medicine press releases and conference presentations).
 
-- **Other Pipeline Candidates:** In addition to Rentosertib, Insilico Medicine is progressing other oncology candidates in discovery and early clinical development stages, as well as fibrosis and aging-related projects mostly in preclinical phases (Source: Insilico Medicine official website).
+- **Other Pipeline Candidates:** In addition to Rentosertib, Insilico Medicine is progressing with other oncology candidates in discovery and early clinical development stages, as well as fibrosis and aging-related projects mostly in preclinical phases (Source: Insilico Medicine official website).
 
 - **Antiviral Efforts:** The company previously directed AI efforts toward SARS-CoV-2 antiviral candidates, which have since been deprioritized compared to oncology and chronic disease programs (Source: Company announcements).
 
@@ -94,7 +94,7 @@ From a business analyst’s perspective, Insilico Medicine occupies a highly str
 
 - **Strategic Partnerships and Financial Backing:** Collaborations with major pharmaceutical service providers such as WuXi AppTec, biopharma companies like Juvenescence, and funding from top-tier investors (Pavilion Capital, Baidu Ventures, Eight Roads Ventures) provide not just capital but also critical industry expertise and market access. This strategic ecosystem mitigates many typical biotech risks.
 
-- **Focus on High-Value Therapeutic Areas:** By targeting oncology, fibrosis, and age-related diseases, Insilico Medicine addresses significant markets with substantial unmet medical need, offering clear commercial potential and societal impact.
+- **Focus on High-Value Therapeutic Areas:** By targeting oncology, fibrosis, and age-related diseases, Insilico Medicine addresses significant markets with substantial unmet medical needs, offering clear commercial potential and societal impact.
 
 ### Challenges and Risks
 
