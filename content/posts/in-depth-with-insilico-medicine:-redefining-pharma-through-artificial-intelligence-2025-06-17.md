@@ -1,6 +1,6 @@
 ---
 title: "In-Depth with Insilico Medicine: Redefining Pharma Through Artificial Intelligence"
-date: 2024-06-03T12:00:00-04:00
+date: 2025-06-17T12:00:00-04:00
 draft: false
 tags: ["AI", "pharmaceutical", "drug discovery", "Insilico Medicine"]
 cover:
