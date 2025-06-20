@@ -1,7 +1,7 @@
 ---
 title: "Recursion Pharmaceuticals: An Analytical Overview of Innovation in Tech-Driven Biotech"
 date: 2025-06-20T01:00:00-04:00
-draft: true
+draft: false
 tags: ["biotech", "pharmaceuticals", "AI", "drug discovery", "Recursion Pharmaceuticals", "technology", "analysis"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1750426366/yzeikq0kvfhawkrzwas8.jpg"
