@@ -44,7 +44,7 @@ Recursion’s competitive advantage springs from its sophisticated technology pl
 
 - **Automated Robotics and Lab Automation:** Recursion conducts over a million experiments per week using advanced lab automation—including robotic liquid handlers, sample processors, and high-content imaging systems. This industrial-scale platform gives Recursion one of the most automated and data-rich operations in biotech.
 
-- **BioHive-2:** Recursion's next-generation, in-house supercomputer designed to power large-scale biological data processing and machine learning. Built in collaboration with NVIDIA as a DGX SuperPOD system and claimed to be the largest supercomputer in pharmaceutical industry (at May 2024), BioHive-2 delivers approximately four times the computational capacity of its predecessor, enabling Recursion to process petabytes of high-dimensional data from cellular imaging, omics, and chemical structures. This infrastructure supports the training of advanced AI models—including deep neural networks and multimodal agents—accelerating drug discovery by uncovering complex biological relationships at unprecedented scale.
+- **BioHive-2:** Recursion's next-generation, in-house supercomputer designed to power large-scale biological data processing and machine learning. Built in collaboration with NVIDIA as a DGX SuperPOD system and claimed to be the largest supercomputer in the pharmaceutical industry (May 2024), BioHive-2 delivers approximately four times the computational capacity of its predecessor, enabling Recursion to process petabytes of high-dimensional data from cellular imaging, omics, and chemical structures. This infrastructure supports the training of advanced AI models—including deep neural networks and multimodal agents—accelerating drug discovery by uncovering complex biological relationships at an unprecedented scale.
 
 Together, these technologies create an end-to-end ecosystem, enabling extensive phenotypic screening powered by proprietary AI algorithms like LOWE, setting Recursion apart in the AI-driven drug discovery space.
 
@@ -90,16 +90,16 @@ Recursion has attracted leading biotech venture capital firms, institutional pub
 Recursion’s pipeline targets rare genetic diseases and complex cancer-related diseases, with several candidates progressing through development:
   
 - **REC-617:**  
-  - This molecule is a CDK7 inhibitor, designed using AI-led approaches, with only 136 novel molecule synthesized from hit to candidate identification in less than 12 months. The molecule is designed to maximize its therapeutic index by enabling the tight control of both the extent and duration of target inhibition. (Source: Recursion)
+  - This molecule is a CDK7 inhibitor, designed using AI-led approaches, with only 136 novel molecules synthesized from hit to candidate identification in less than 12 months. The molecule is designed to maximize its therapeutic index by enabling tight control of both the extent and duration of target inhibition. (Source: Recursion)
   - *Indications:* Advanced solid tumours.  
   - *Stage:* Phase 1/2 clinical trials.
-  - *Current status:* Phase 1/2 monotherapy data showed early promise: durable partial response in metastatic ovarian cancer, plus stable disease in colorectal and non–small cell lung cancers. (Source: ![GlobalNewswire](https://www.globenewswire.com/news-release/2024/12/09/2994128/0/en/Recursion-Reports-Interim-Phase-1-Clinical-Data-for-REC-617-Monotherapy-a-Potential-Best-in-Class-CDK7-Inhibitor-With-Encouraging-Patient-Response-and-Favorable-Tolerability.html))
+  - *Current status:* Phase 1/2 monotherapy data showed early promise: durable partial response in metastatic ovarian cancer, plus stable disease in colorectal and non–small cell lung cancers. (Source: [GlobalNewswire](https://www.globenewswire.com/news-release/2024/12/09/2994128/0/en/Recursion-Reports-Interim-Phase-1-Clinical-Data-for-REC-617-Monotherapy-a-Potential-Best-in-Class-CDK7-Inhibitor-With-Encouraging-Patient-Response-and-Favorable-Tolerability.html))
 
 - **REC-4881:**  
   - This molecule is an orally bioavailable, non-ATP-competitive allosteric small molecule MEK 1/2 inhibitor.
   - *Indications:* Familial Adenomatous Polyposis (FAP).  
   - *Stage:* Phase 2 clinical trials.
-  - *Current status:* Phase 2 TUPELO trial for FAP shows encouraging results: ~43% median polyp burden reduction at week 13. (Source: ![GlobalNewswire](https://www.globenewswire.com/news-release/2025/05/04/3073732/0/en/Preliminary-Phase-1b-2-Data-for-REC-4881-in-Familial-Adenomatous-Polyposis-FAP-Demonstrates-Reduced-Polyp-Burden.html))
+  - *Current status:* Phase 2 TUPELO trial for FAP shows encouraging results: ~43% median polyp burden reduction at week 13. (Source: [GlobalNewswire](https://www.globenewswire.com/news-release/2025/05/04/3073732/0/en/Preliminary-Phase-1b-2-Data-for-REC-4881-in-Familial-Adenomatous-Polyposis-FAP-Demonstrates-Reduced-Polyp-Burden.html))
 
 - **Rare Disease Programs:** Preclinical efforts target ultra-rare genetic disorders like congenital myopathies and fibrodysplasia ossificans progressiva (FOP), leveraging rapid disease modeling and systematic screening.
 
