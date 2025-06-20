@@ -20,8 +20,6 @@ In this blog, we take a deep dive into Insilico Medicine's journey, technologies
 
 ## 2. Who They Are & Mission
 
-Founded in 2014, Insilico Medicine is a bioinformatics company headquartered in Hong Kong and the United States. The companys mission is to accelerate drug discovery and development using advanced artificial intelligence, with a particular focus on age-related diseases, cancers, and other complex conditions. Led by a team of AI researchers, biologists, and medicinal chemists, Insilico Medicine aims to unlock the full potential of AI technologies to design novel drugs faster and more efficiently.
-
 ### Who They Are
 
 Insilico Medicine is a clinical-stage biotech company founded in 2014 by Alex Zhavoronkov, PhD, with headquarters in Boston and additional R&D sites in regions including the U.S., Greater China, Canada, and the Middle East. They specialize in AI-driven drug discovery and development. (Source: https://en.wikipedia.org)
