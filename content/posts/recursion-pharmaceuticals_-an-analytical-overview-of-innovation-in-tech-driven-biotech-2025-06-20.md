@@ -90,8 +90,8 @@ Recursion has attracted leading biotech venture capital firms, institutional pub
 Recursion’s pipeline targets rare genetic diseases and complex cancer-related diseases, with several candidates progressing through development:
   
 - **REC-617:**  
-  - This molecule is a CDK7 inhibitor, designed using AI-led approaches, with only 136 novel molecules synthesized from hit to candidate identification in less than 12 months. The molecule is designed to maximize its therapeutic index by enabling tight control of both the extent and duration of target inhibition. (Source: Recursion)
-  - *Indications:* Advanced solid tumours.  
+  - This molecule is a CDK7 inhibitor, designed using AI-led approaches, with only 136 novel molecules synthesized from hit to candidate identification in less than 12 months. The molecule is designed to maximize its therapeutic index by enabling tight control of both the extent and duration of target inhibition. (Source: [Recursion](https://ir.recursion.com/news-releases/news-release-details/recursion-reports-interim-phase-1-clinical-data-rec-617))
+  - *Indications:* Advanced solid tumours.
   - *Stage:* Phase 1/2 clinical trials.
   - *Current status:* Phase 1/2 monotherapy data showed early promise: durable partial response in metastatic ovarian cancer, plus stable disease in colorectal and non–small cell lung cancers. (Source: [GlobalNewswire](https://www.globenewswire.com/news-release/2024/12/09/2994128/0/en/Recursion-Reports-Interim-Phase-1-Clinical-Data-for-REC-617-Monotherapy-a-Potential-Best-in-Class-CDK7-Inhibitor-With-Encouraging-Patient-Response-and-Favorable-Tolerability.html))
 
