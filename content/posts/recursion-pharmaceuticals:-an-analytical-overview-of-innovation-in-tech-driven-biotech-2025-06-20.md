@@ -8,8 +8,6 @@ cover:
   alt: "Recursion Pharmaceuticals futuristic biotech lab with AI-driven drug discovery and company logo"
 ---
 
-# Recursion Pharmaceuticals: An Analytical Overview of Innovation in Tech-Driven Biotech
-
 ## Introduction to Recursion Pharmaceuticals
 
 Founded in 2013, Recursion Pharmaceuticals has quickly emerged as a pioneering force in the biotechnology sector by integrating artificial intelligence and machine learning technologies into drug discovery. Headquartered in Salt Lake City, Utah, Recursion utilizes vast biological and chemical datasets to accelerate the identification and development of novel therapeutics, with a particular focus on rare diseases as well as broader therapeutic areas.
