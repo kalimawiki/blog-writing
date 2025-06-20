@@ -52,7 +52,7 @@ Together, these technologies create an end-to-end ecosystem, enabling extensive 
 
 ![Biotech lab featuring automated robotic arms and AI-driven drug discovery](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750426112/jcwlouyobxfod5dz6on0.jpg)
 
-## Partnerships, Finance/Funding, and Investors
+## Partnerships, Finance & Funding, and Investors
 
 Recursion has strategically developed broad partnerships and funding sources essential for sustained innovation:
 
@@ -92,14 +92,14 @@ Recursion has attracted leading biotech venture capital firms, institutional pub
 Recursion’s pipeline targets rare genetic diseases and complex disorders, with several candidates progressing through development:
 
 - **REC-994:**  
+  - This small molecule modulates pathways involved in tumor suppression and neuroprotection, showing early tolerability and efficacy signals, marking a flagship clinical validation of Recursion’s AI-driven discovery.
   - *Indication:* Neurofibromatosis type 2 (NF2), a rare disorder characterized by nerve tumors causing neurological impairments.  
   - *Stage:* Phase 1 clinical trials.  
-  - *Details:* This small molecule modulates pathways involved in tumor suppression and neuroprotection, showing early tolerability and efficacy signals, marking a flagship clinical validation of Recursion’s AI-driven discovery.
-
+  
 - **REC-2282 (AR-42):**  
+  - This molecule is an HDAC inhibitor originally developed outside but now optimized and expanded by Recursion’s platform, presenting multi-indication potential with commercial promise.
   - *Indications:* Hematologic malignancies and neurodegenerative diseases including Huntington’s disease.  
   - *Stage:* Phase 2 clinical trials.  
-  - *Details:* An HDAC inhibitor originally developed outside but now optimized and expanded by Recursion’s platform, presenting multi-indication potential with commercial promise.
 
 - **Rare Disease Programs:** Preclinical efforts target ultra-rare genetic disorders like congenital myopathies and fibrodysplasia ossificans progressiva (FOP), leveraging rapid disease modeling and systematic screening.
 
@@ -111,7 +111,7 @@ This diversified portfolio balances internal innovation and external collaborati
 
 ## Perspective & Performance Analysis
 
-### Analytical Strengths
+### Competitive Advantages
 
 Recursion occupies a unique intersection in the biotech landscape, boasting a well-integrated, large-scale platform combining experimental phenotyping and advanced AI algorithms like LOWE. Its focus on rare diseases aligns with strategic market opportunities marked by regulatory incentives and competitive differentiation.
 
