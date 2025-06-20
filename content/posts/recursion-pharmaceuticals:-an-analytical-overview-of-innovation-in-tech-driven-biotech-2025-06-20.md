@@ -135,7 +135,7 @@ Despite these advantages, Recursion faces inherent challenges:
 
 Compared to AI-focused chemical design companies like Exscientia pre-merger, Recursion’s deep experimental biology approach generates more comprehensive data but incurs higher operational complexities and costs.
 
-Compared with traditional biotechs, it pioneers new discovery modalities, but faces similar clinical development challenges, underscoring the uncertainty inherent in drug development pipelines.
+Compared with traditional biotechs, it pioneers new discovery modalities but faces similar clinical development challenges, underscoring the uncertainty inherent in drug development pipelines.
 
 The Recursion-Exscientia merger creates a formidable combined entity, yet the success will critically depend on integration efficiency, clinical validation, and sustained innovation to maintain investor and partner confidence.
 
@@ -144,7 +144,3 @@ The Recursion-Exscientia merger creates a formidable combined entity, yet the su
 Recursion’s vision of industrializing biology integrated with AI-driven chemistry design charts an ambitious course for drug discovery. Executing on clinical trials, regulatory acceptance, and further refining AI interpretability will be decisive factors.
 
 From a measured business analyst viewpoint, current valuations incorporate anticipations of significant breakthroughs that remain to be clinically proven at scale. Strategic discipline, risk management, and operational focus will determine whether Recursion fulfills its transformative potential in an intensely competitive industry.
-
----
-
-Please review the draft and let me know if you have any changes or if you want me to proceed with publishing the post on the preview branch.
