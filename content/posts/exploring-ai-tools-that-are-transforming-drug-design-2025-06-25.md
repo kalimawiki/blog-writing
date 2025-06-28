@@ -2,7 +2,7 @@
 title: "Exploring AI Technologies That Are Transforming Drug Design"
 date: 2025-06-25T00:00:00.000+07:00
 draft: false
-tags: ["Pharmaceutical", "AI", "Drug Design", "Artificial Intelligence"]
+tags: ["Pharmaceuticals", "AI", "Drug Design", "Artificial Intelligence"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1750852078/w3wcme5friuu9acvwlld.jpg"
   alt: "AI in Drug Design"
