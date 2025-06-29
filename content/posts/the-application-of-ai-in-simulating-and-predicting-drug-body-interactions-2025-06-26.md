@@ -2,7 +2,7 @@
 title: "The Application of AI in Simulating and Predicting Drug-Body Interactions"
 date: 2025-06-26T00:00:00+07:00
 draft: false
-tags: ["AI in Pharmaceutical Research", "Drug-Body Interactions", "Artificial Intelligence"]
+tags: ["AI", "Pharmaceutical Research", "Drug-Body Interactions", "Artificial Intelligence"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1750932111/dm3dojqs00vtjxziidxg.jpg"
   alt: "Simulating & Predicting Drug-Protein interactions with AI"
