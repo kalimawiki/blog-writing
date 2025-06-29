@@ -2,7 +2,7 @@
 title: "In-Depth with Insilico Medicine: Redefining Pharma Through Artificial Intelligence"
 date: 2025-06-17T12:00:00-04:00
 draft: false
-tags: ["AI", "pharmaceutical", "drug discovery", "Insilico Medicine"]
+tags: ["AI", "pharmaceuticals", "drug discovery", "Insilico Medicine"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1750177115/xwvvpyi5knpj7xhltxzt.jpg"
   alt: "Cover image of advanced AI-driven drug discovery with Insilico Medicine logo"
