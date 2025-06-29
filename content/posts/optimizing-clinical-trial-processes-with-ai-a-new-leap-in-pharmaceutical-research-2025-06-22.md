@@ -52,7 +52,7 @@ AI can help create “tailor-made” treatment methods for individual patients b
 
 ## Current Challenges and Limitations
 
-Despite its promise, applying AI in clinical trials comes with significant hurdles—from technical to ethical, legal, and social aspects.
+Despite its promise, applying AI in clinical trials comes with significant hurdles — from technical to ethical, legal, and social aspects.
 
 ### 1. Data Quality Remains a Bottleneck
 
