@@ -83,7 +83,7 @@ Despite its advantages, AI still faces challenges:
 - **Understanding biological mechanisms:** AI needs better capabilities to interpret complex biological systems.
 - **Interpretability and transparency:** AI models are often seen as “black boxes,” making their outputs hard to explain.
 
-For more insights on the limitations of applying AI to pharmaceutical research, please refer to the following article: [AI in Clinical Research: Benefits and Challenges](https://kalimawiki.vercel.app/posts/ai-in-clinical-research-benefits-and-challenges-2025-06-22/).
+For more insights on the limitations of applying AI to pharmaceutical research, please refer to the following article: [Challenges of Implementing AI in Pharmaceuticals](https://kalimawiki.vercel.app/posts/challenges-of-implementing-ai-in-pharmaceuticals-2025-06-16/).
 
 ## 7. Future Prospects
 
