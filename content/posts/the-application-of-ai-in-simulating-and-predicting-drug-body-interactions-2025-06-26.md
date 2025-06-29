@@ -87,6 +87,6 @@ For more insights on the limitations of applying AI to pharmaceutical research, 
 
 ## 7. Future Prospects
 
-The application of AI in simulating and predicting drug-body interactions is not just a trend—it is becoming a cornerstone of the modern pharmaceutical industry. From tech giants like IBM and DeepMind to startups like Insilico Medicine and Recursion, AI is proving vital in shortening development timelines, cutting costs, and improving drug safety and efficacy assessments.
+The application of AI in simulating and predicting drug-body interactions is not just a trend — it is becoming a cornerstone of the modern pharmaceutical industry. From tech giants like IBM and DeepMind to startups like Insilico Medicine and Recursion, AI is proving vital in shortening development timelines, cutting costs, and improving drug safety and efficacy assessments.
 
-However, AI is not a silver bullet. Challenges like data quality, model transparency, and biological knowledge still need to be addressed for AI to reach its full potential. That said, with current progress, it’s likely that AI-powered simulation will soon become an integral part of all pharmaceutical research—bringing safer, faster, and more effective medicines to patients worldwide.
+However, AI is not a silver bullet. Challenges like data quality, model transparency, and biological knowledge still need to be addressed for AI to reach its full potential. That said, with current progress, it’s likely that AI-powered simulation will soon become an integral part of all pharmaceutical research: bringing safer, faster, and more effective medicines to patients worldwide.
