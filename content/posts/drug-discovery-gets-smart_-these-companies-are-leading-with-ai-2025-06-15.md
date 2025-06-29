@@ -71,7 +71,7 @@ Artificial intelligence (AI) is revolutionizing the pharmaceutical industry, ena
 - **Technologies**: Develops AI platforms that integrate machine learning in the drug design process.
 - **Investments/Partnerships**: Raised over $400 million in funding, and partnered with companies like Sanofi and Bristol-Myers Squibb for drug development efforts.
 - **Current Pipelines**: Over a dozen programs in development for various therapeutic areas, including oncology and immunology.
-- **Recent News**: Recently announced success in leading design partners towards new drug candidates using its AI technology.
+- **Recent News**: Recently announced merger with Recursion Pharmaceuticals.
 
 ## AI Therapeutics
 - **About**: A biotechnology firm specializing in AI-assisted drug repurposing.
