@@ -22,11 +22,11 @@ In this blog, we take a deep dive into Insilico Medicine's journey, technologies
 
 ### Who They Are
 
-Insilico Medicine is a clinical-stage biotech company founded in 2014 by Alex Zhavoronkov, PhD, with headquarters in Boston and additional R&D sites in regions including the U.S., Greater China, Canada, and the Middle East. They specialize in AI-driven drug discovery and development. (Source: https://en.wikipedia.org)
+Insilico Medicine is a preclinical- & clinical-stage biotech company founded in 2014 by Alex Zhavoronkov, PhD, with headquarters in Boston and additional R&D sites in regions including the U.S., Greater China, Canada, and the Middle East. They specialize in AI-driven drug discovery and development. (Source: https://en.wikipedia.org)
 
 ### Mission, Purpose & Core Values
 
-Insilico Medicine's mission is to to accelerate drug discovery and development by leveraging our rapidly evolving, proprietary Pharma.AI platform across biology, chemistry and clinical development. (Source: insilico.com)
+Insilico Medicine's mission is to accelerate drug discovery and development by leveraging our rapidly evolving, proprietary Pharma.AI platform across biology, chemistry, and clinical development. (Source: insilico.com)
 
 The company is driven by the 3 following Core Values:
 1. Patient First – prioritizing patient needs in all processes
@@ -41,16 +41,16 @@ They support a collaborative, interdisciplinary culture, drawing talent through 
 Alex Zhavoronkov is a Latvian-born longevity researcher. Previously at Johns Hopkins, he founded the Biogerontology Research Foundation. Since 2013, he has published 2 books, including “The Ageless Generation: How Advances in Biomedicine Will Transform the Global Economy.” He has been directing the strategic growth and innovation of Insilico since its founding in 2014. (Source: SpringerNature Research Community)
 
 - **Feng Ren, PhD - Co-CEO & Chief Scientific Officer:**
-Feng Ren is an alumni of Harvard and GSK, specializing in small-molecule drug development. He joined Medicilon before moving to Insilico in 2021. He has published extensively and has driven core internal and external R&D collaborations since joining Insilico. (Source: insilico.com)
+Feng Ren is an alumnus of Harvard and GSK, specializing in small-molecule drug development. He joined Medicilon before moving to Insilico in 2021. He has published extensively and has driven core internal and external R&D collaborations since joining Insilico. (Source: insilico.com)
 
 - **Alex Aliper, PhD - President:**
-Alex Aliper is a pioneer in applying AI to multi-omics and chemistry, credited with leading AI-designed molecules into human trials. He built a 100+ engineer team that developed state-of-the-art software products for target discovery, small molecule generation and clinical trial outcome prediction and has published over 50 peer-reviewed publications. (Source: insilico.com)
+Alex Aliper is a pioneer in applying AI to multi-omics and chemistry, credited with leading AI-designed molecules into human trials. He built a 100+ engineer team that developed state-of-the-art software products for target discovery, small molecule generation, and clinical trial outcome prediction and has published over 50 peer-reviewed publications. (Source: insilico.com)
 
 - **Michelle Chen, PhD - Chief Business Officer:**
 She was named among the Top 25 Biotech Executives of 2024 by Healthcare Technology Report, a leading provider of healthcare sector news and research. At Insilico Medicine, she is responsible for driving strategy, corporate and global business development, and for leading major pharma collaborations such as a $1.2 billion multi-target deal with Sanofi in 2022. (Source: EurekAlert)
 
 - **Sujata Rao, MD - Chief Medical Officer:**
-Sujata Rao has over 15 years of experience in the pharmaceutical industry as a senior executive in the area of clinical development and medical affairs. In 2023, she was appointed Chief Medical Officer, and has been playing a pivotal role in designing the first patient dosing regime for one of Insilico's most promising candidate for IPF in a Phase II clinical study. She also led two other AI-derived assets: a USP1 inhibitor for solid tumors (with FDA IND clearance) and a COVID-19 drug effective against resistant variants (Source: EurekAlert). She has been actively presents Insilico’s oncology portfolio at top-tier conferences (e.g., AACR, ESMO), including advancing ISM8207, a QPCTL inhibitor for hard-to-treat cancers (Source: EMSO Annals of Oncology)
+Sujata Rao has over 15 years of experience in the pharmaceutical industry as a senior executive in the area of clinical development and medical affairs. In 2023, she was appointed Chief Medical Officer and has been playing a pivotal role in designing the first patient dosing regime for one of Insilico's most promising candidates for IPF in a Phase II clinical study. She also led two other AI-derived assets: a USP1 inhibitor for solid tumors (with FDA IND clearance) and a COVID-19 drug effective against resistant variants (Source: EurekAlert). She has been actively presenting Insilico’s oncology portfolio at top-tier conferences (e.g., AACR, ESMO), including advancing ISM8207, a QPCTL inhibitor for hard-to-treat cancers (Source: EMSO Annals of Oncology)
 
 
 ## 3. Technologies and Platforms
