@@ -22,17 +22,17 @@ AI is revolutionizing every phase of clinical trials by bringing data-driven pre
 
 ### 1. Patient Recruitment & Matching
 
-- **Advanced EHR Scanning & NLP**
+- **Advanced Electronic Medical Record Scanning & Natural Language Processing**
 
-	Deep-learning models (e.g., CNNs, RNNs) and natural language processing (NLP) tools now analyze unstructured health records to surface potential trial participants. One hospital deployed an AI “Automated Clinical Trial Eligibility Scanner” that reduced screening time by 34 % and identified candidates with 80 % interface usability (Source: [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636341/?utm_source=chatgpt.com)), [arxiv](https://arxiv.org/abs/2505.08508?utm_source=chatgpt.com), [ITRex](https://itrexgroup.com/blog/artificial-intelligence-in-clinical-trials/?utm_source=chatgpt.com)). Oncology-focused systems have boosted eligibility detection by 24–50 % over traditional methods (Source: [Pharmacy Times](https://www.pharmacytimes.com/view/new-frontiers-in-technology-ai-use-in-clinical-trial-patient-recruitment-in-health-systems?utm_source=chatgpt.com))
+	Deep-learning models (e.g., CNNs, RNNs) and natural language processing (NLP) tools now analyze unstructured health records to surface potential trial participants. One hospital deployed an AI “Automated Clinical Trial Eligibility Scanner” that reduced screening time by 34 % and identified candidates with 80 % interface usability (Source: [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636341/?utm_source=chatgpt.com), [arXiv](https://arxiv.org/abs/2505.08508?utm_source=chatgpt.com), [ITRex](https://itrexgroup.com/blog/artificial-intelligence-in-clinical-trials/?utm_source=chatgpt.com)). Oncology-focused systems have boosted eligibility detection by 24–50 % over traditional methods (Source: [Pharmacy Times](https://www.pharmacytimes.com/view/new-frontiers-in-technology-ai-use-in-clinical-trial-patient-recruitment-in-health-systems?utm_source=chatgpt.com))
 
 - **Sophisticated Matching Platforms**
 
-	Cutting-edge systems like TrialMatchAI (an open-source LLM-based tool) sift through structured and unstructured patient data to deliver eligibility matches with explanations. In oncology applications, it placed a relevant trial in the top 20 results for 92 % of patients (Source: [arxiv](https://arxiv.org/abs/2505.08508?utm_source=chatgpt.com)).
+	Cutting-edge systems like TrialMatchAI (an open-source LLM-based tool) sift through structured and unstructured patient data to deliver eligibility matches with explanations. In oncology applications, it placed a relevant trial in the top 20 results for 92 % of patients (Source: [arXiv](https://arxiv.org/abs/2505.08508?utm_source=chatgpt.com)).
 
 - **Digital & Social Media Outreach**
 
-	Companies like Opyl use AI-powered platforms (e.g., Opin.ai) to target, inform, and engage trial candidates through social media, creating more participant-centered recruitment and expanding geographic diversity (Source: [arxiv](https://arxiv.org/abs/2109.02808?utm_source=chatgpt.com)).
+	Companies like Opyl use AI-powered platforms (e.g., Opin.ai) to target, inform, and engage trial candidates through social media, creating more participant-centered recruitment and expanding geographic diversity (Source: [arXiv](https://arxiv.org/abs/2109.02808?utm_source=chatgpt.com)).
 
 ### 2. Smart Trial Design & Optimization
 
@@ -42,11 +42,7 @@ AI is revolutionizing every phase of clinical trials by bringing data-driven pre
 
 - **Eligibility Cohort Tuning**
 
-	Tools like “Trial Pathfinder” simulate broader criteria using real-world datasets to enlarge trial pools without degrading statistical power. For example, breast and lung cancer trials saw their eligible populations more than double with only minimal HAZARD ratio impact (Source: [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636341/?utm_source=chatgpt.com)).
-
-- **Generative AI for Protocol Drafting**
-
-	Domain-specific LLMs (e.g., ClinicalBERT) assist researchers by simulating trial scenarios, sketching protocols, optimizing sample sizes, and refining blood sampling schedules. Japanese pediatric studies even shrank participants needed from 15 to 7 without compromising results (Source: [ITRex](https://itrexgroup.com/blog/artificial-intelligence-in-clinical-trials/?utm_source=chatgpt.com)).
+	Tools like “Trial Pathfinder” simulate broader criteria using real-world datasets to enlarge trial pools without degrading statistical power. For example, breast and lung cancer trials saw their eligible populations more than double with only minimal HAZARD ratio impact (Source: [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636341/?utm_source=chatgpt.com), [Nature](https://www.nature.com/articles/s41586-021-03430-5)).
 
 ### 3. Data Collection, Monitoring & Safety
 
@@ -70,17 +66,17 @@ AI is revolutionizing every phase of clinical trials by bringing data-driven pre
 
 - **Discovery of Responding Subpopulations**
 
-	Advanced analytics can identify distinct biomarker-defined groups within trial data. For example, NetraMark claims over 85 % accuracy in spotting likely placebo responders - improving signal clarity and ensuring efficacy is measured accurately (Source: [NetraMark](https://www.netramark.com/wp-content/uploads/2023/10/Anxiety-and-Schizophrenia.pdf?utm_source=chatgpt.com), [Cision](https://www.newswire.ca/news-releases/netramark-and-worldwide-clinical-trials-announce-agreement-to-transform-clinical-trial-design-with-ai-powered-precision-871383090.html?utm_source=chatgpt.com)).
+	Advanced analytics can identify distinct biomarker-defined groups within trial data. For example, when tested with three complex and difficult clinical trial datasets (focused on schizophrenia, depression, pancreatic cancer chemotherapy, where datasets are known to be filled with noisy real-world & multi-variable patient data), NetraMark outperformed all other AI competitors, including ChatGPT, DeepSeek, and traditional ML, to successfully produce stratification of subgroup characteristics that enable the extraction of valuable insights from the datasets (Source: [arXiv](https://arxiv.org/abs/2506.14782)).
 
 ### 5. Virtual Patients & In-Silico Modeling
 
 - **Digital Twin Simulations**
 
-	Virtual patient modeling (in‑silico trials) uses physiology-based simulations to predict trial outcomes—especially valuable for device testing and rare diseases. This method helps pre-screen for safety before enrolling actual participants.
+	Virtual patient modeling (in‑silico trials) uses physiology-based simulations to predict trial outcomes — especially valuable for device testing and rare diseases. This method helps pre-screen for safety before enrolling actual participants.
 
 - **Adaptive Trial Platforms**
 
-	AI supports adaptive designs (e.g., adjusting arms/dosing on-the-fly). Inspired by the WHO COVID‑19 Solidarity Framework and I‑SPY 2 oncology trials, AI is being used to feed interim data into trial modifications (Source: [Wikipedia](https://en.wikipedia.org/wiki/Adaptive_design_%28medicine%29?utm_source=chatgpt.com)).
+	AI supports adaptive designs (e.g., adjusting arms/dosing on-the-fly). Inspired by the WHO COVID‑19 Solidarity and I‑SPY 2 oncology trials, AI is being used to feed interim data into trial modifications (Source: [Wikipedia](https://en.wikipedia.org/wiki/Adaptive_design_%28medicine%29?utm_source=chatgpt.com)).
 
 ### 6. Administrative & Engagement Automation
 
@@ -96,7 +92,7 @@ AI is revolutionizing every phase of clinical trials by bringing data-driven pre
 
 	Generative AI tools can draft 60–70 % of trial documentation - including protocols, reports, lay summaries (Source: [ITRex](https://itrexgroup.com/blog/artificial-intelligence-in-clinical-trials/?utm_source=chatgpt.com)), with up to a 40 % reduction in regulatory submission time (Source: [pharmaphorum](https://pharmaphorum.com/rd/generative-ai-clinical-trials-practical-use-cases-and-common-concerns?utm_source=chatgpt.com)).
 
-By combining advanced AI techniques—from predictive analytics and real-time monitoring to digital twins and generative drafting— pharma companies are shortening timelines, cutting costs, enhancing safety, and delivering more reliable, inclusive clinical trials.
+By combining advanced AI techniques - from predictive analytics and real-time monitoring to digital twins and generative drafting - pharma companies are shortening timelines, cutting costs, enhancing safety, and delivering more reliable, inclusive clinical trials.
 
 ## Benefits of AI in Clinical Trials
 
@@ -110,7 +106,7 @@ The integration of artificial intelligence into clinical trials delivers signifi
 	
 - **Operational Efficiency**
 	
-	AI reduces manual workloads by automating repetitive tasks—like data entry, monitoring, documentation, and reporting. A McKinsey report found that automation through gen-AI-powered digitalized processes could reduce process costs by up to 50% by enabling "peak performance" in operations (Source: [McKinsey & Company](https://www.mckinsey.com/industries/life-sciences/our-insights/unlocking-peak-operational-performance-in-clinical-development-with-artificial-intelligence)).
+	AI reduces manual workloads by automating repetitive tasks such as data entry, monitoring, documentation, and reporting. A McKinsey report found that automation through gen-AI-powered digitalized processes could reduce process costs by up to 50% by enabling "peak performance" in operations (Source: [McKinsey & Company](https://www.mckinsey.com/industries/life-sciences/our-insights/unlocking-peak-operational-performance-in-clinical-development-with-artificial-intelligence)).
 
 - **Early Go/No-Go Decisions**
 	
@@ -120,7 +116,7 @@ The integration of artificial intelligence into clinical trials delivers signifi
 
 - **Real-Time Monitoring of Adverse Events**
 
-	AI systems integrated with wearable devices and electronic medical records (EMRs) can detect early signs of adverse reactions—sometimes days before they manifest clinically. This enables rapid intervention and improves patient safety throughout the trial.
+	AI systems integrated with wearable devices and electronic medical records (EMRs) can detect early signs of adverse reactions — sometimes days before they manifest clinically. This enables rapid intervention and improves patient safety throughout the trial.
 	
 - **Cleaner, More Reliable Data**
 
@@ -257,7 +253,7 @@ However, adoption remains uneven. Larger pharmaceutical companies and tech-forwa
 
 ### Efficiency Gains Are Outpacing Ethical Readiness
 
-Operationally, AI is driving rapid gains in speed, efficiency, and personalization — but *ethical and regulatory frameworks are lagging*. Many of the most powerful AI tools (e.g., deep learning and real-time adaptive trial systems) function as black boxes, making them difficult to explain, validate, or audit—an issue that is particularly problematic in a highly regulated industry like drug development.
+Operationally, AI is driving rapid gains in speed, efficiency, and personalization — but *ethical and regulatory frameworks are lagging*. Many of the most powerful AI tools (e.g., deep learning and real-time adaptive trial systems) function as black boxes, making them difficult to explain, validate, or audit — an issue that is particularly problematic in a highly regulated industry like drug development.
 
 The current regulatory environment is *cautiously reactive* rather than proactive. While the FDA and EMA have started issuing AI-related guidance, there’s still a lack of standardized validation protocols, transparency requirements, and accountability guidelines for AI models used in human trials. Without stronger oversight and public engagement, there’s a risk of public distrust or even systemic bias in how AI-driven trials are designed and interpreted.
 
@@ -265,7 +261,7 @@ The current regulatory environment is *cautiously reactive* rather than proactiv
 
 AI is not merely automating old processes: it is fundamentally changing how we think about clinical research design. The ability to simulate trial populations, personalize protocols, and adapt trials in real time moves clinical development from a static, one-size-fits-all process to a *dynamic, data-driven paradigm*.
 
-This transition mirrors broader shifts toward *precision medicine*, where the right treatment is delivered to the right patient at the right time. In that context, AI is becoming a foundational technology—not a supporting tool. For example, predictive analytics can now anticipate trial dropout risks or identify placebo responders, allowing sponsors to optimize enrollment and boost signal detection in early-phase studies.
+This transition mirrors broader shifts toward *precision medicine*, where the right treatment is delivered to the right patient at the right time. In that context, AI is becoming a foundational technology — not just a supporting tool. For example, predictive analytics can now anticipate trial dropout risks or identify placebo responders, allowing sponsors to optimize enrollment and boost signal detection in early-phase studies.
 
 ### The Human Element Remains Essential
 
