@@ -234,7 +234,7 @@ Leading pharmaceutical companies are increasingly adopting AI to overcome operat
 
 These examples demonstrate the extensive and versatile applications of AI across pharma manufacturing and supply chain functions, showing measurable improvements in efficiency, cost savings, and product quality.
 
-![AI in pharma with data analytics visualization](https://res.cloudinary.com/dxyptrt7m/image/upload/v1751459004/g6dnpz1abqqvfmlwpr0e.jpg)
+![AI in pharma with data analytics visualization](https://res.cloudinary.com/dxyptrt7m/image/upload/v1751464117/b1pulggw340957il04ux.jpg)
 
 ## Perspective and Analysis
 
