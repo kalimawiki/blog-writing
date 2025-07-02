@@ -74,11 +74,11 @@ In summary, pharma companies must navigate a dual landscape of precision-driven 
 
 Artificial Intelligence is transforming pharmaceutical manufacturing from a reactive, manual system into a **data-driven, intelligent operation**. By learning from historical and real-time data, AI helps optimize processes, enhance quality, and reduce operational risks across multiple stages of drug production.
 
-1. **Predictive Maintenance:**  
+**1. Predictive Maintenance:**  
 
 AI systems analyze sensor data from manufacturing equipment to predict failures before they happen. This predictive maintenance approach reduces unplanned downtime, lowers repair costs, and extends equipment life. For example, vibration analysis, temperature monitoring, and acoustic sensors can feed AI models to detect machine anomalies early.
 
-2. **Process Automation and Optimization:**
+**2. Process Automation and Optimization:**
   
 Machine learning algorithms can optimize chemical reactions, mixing times, and filtration processes by learning from historical manufacturing data. This leads to improved yields, reduced waste, and consistent batch quality. AI-powered robotic systems can also automate repetitive tasks such as filling, labeling, and packaging, enhancing speed and reducing human error.
 
