@@ -82,9 +82,9 @@ AI systems analyze sensor data from manufacturing equipment to predict failures 
   
 Machine learning algorithms can optimize chemical reactions, mixing times, and filtration processes by learning from historical manufacturing data. This leads to improved yields, reduced waste, and consistent batch quality. AI-powered robotic systems can also automate repetitive tasks such as filling, labeling, and packaging, enhancing speed and reducing human error.
 
-	- **Dynamic Parameter Control:** AI adjusts process variables like mixing speed or reaction temperature in real time based on feedback loops, improving batch yields.
-	- **Robotics Integration:** AI coordinates robotic arms for tasks such as weighing APIs, capsule filling, and assembly, ensuring precision and reducing manual error.
-	- **📌 Example:** GSK uses AI and ML to optimize chemical synthesis routes in early development, reducing scale-up time and increasing overall yield.
+	**Dynamic Parameter Control:** AI adjusts process variables like mixing speed or reaction temperature in real time based on feedback loops, improving batch yields.
+	**Robotics Integration:** AI coordinates robotic arms for tasks such as weighing APIs, capsule filling, and assembly, ensuring precision and reducing manual error.
+	**📌 Example:** GSK uses AI and ML to optimize chemical synthesis routes in early development, reducing scale-up time and increasing overall yield.
 
 3. **Real-time Quality Control**
 
