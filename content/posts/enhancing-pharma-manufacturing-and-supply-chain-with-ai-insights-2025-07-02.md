@@ -109,7 +109,7 @@ Pharma supply chains are inherently complex, but AI brings much-needed **agility
 
 **1. Enhanced Demand Forecasting:**
  
-AI models integrate vast data sourcesincluding historical sales, prescription trends, epidemiological data, and even social media sentimentto create more accurate demand forecasts. This improved forecasting helps pharma companies balance inventory levels, reduce waste, and better align production schedules with market needs.
+AI models integrate vast data sources, including historical sales, prescription trends, epidemiological data, and even social media sentiment, to create more accurate demand forecasts. This improved forecasting helps pharma companies balance inventory levels, reduce waste, and better align production schedules with market needs.
 
 - **🧠 Case in Point:** Moderna used AI-enabled analytics to rapidly scale up vaccine production during COVID-19, adapting forecasts in real-time based on infection surges and distribution bottlenecks.
 
