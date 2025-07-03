@@ -131,7 +131,7 @@ Supply chains are vulnerable to risks such as supplier failures, regulatory chan
 
 - **🛡️ Example:** Bayer implemented AI-based supplier risk scoring systems, allowing procurement teams to act preemptively when disruptions are forecasted.
 
-**. Supply Chain Visibility and Traceability**
+**5. Supply Chain Visibility and Traceability**
 
 With AI-enhanced tracking systems, stakeholders gain end-to-end visibility into shipment status, inventory movement, and chain-of-custody documentation.
 
