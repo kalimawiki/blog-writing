@@ -22,7 +22,7 @@ Pharmaceutical manufacturing is a highly regulated and intricate process involvi
 
 - **Stringent Regulatory Compliance**
 
-	Manufacturing facilities must comply with global regulatory frameworks such as FDA cGMP (Current Good Manufacturing Practices), EMA guidelines, and ICH standards. These regulations cover everything from cleanroom protocols and documentation to equipment validation and batch release processes. Any deviation—even minor—can result in costly recalls, legal liability, or reputational damage.
+	Manufacturing facilities must comply with global regulatory frameworks such as FDA cGMP (Current Good Manufacturing Practices), EMA guidelines, and ICH standards. These regulations cover everything from cleanroom protocols and documentation to equipment validation and batch release processes. Any deviation, even minor, can result in costly recalls, legal liability, or reputational damage.
 
 - **Process Complexity and Variability**
 
