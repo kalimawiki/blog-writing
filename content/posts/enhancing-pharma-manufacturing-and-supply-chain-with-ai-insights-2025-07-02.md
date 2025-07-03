@@ -212,7 +212,7 @@ AI frees up time and resources for innovation by reducing the operational burden
 
 - **Digital Maturity and Competitive Edge:** Early adopters of AI position themselves as digital leaders in the pharma space, attracting investment, partnerships, and talent.
 
-In summary, AI doesn’t just improve how pharmaceutical companies manufacture and distribute medicines—it redefines what's possible. By integrating intelligence across the value chain, pharma firms can become more responsive, efficient, and resilient while advancing their mission to deliver safe, effective medicines to patients faster and more reliably than ever before.
+In summary, AI doesn’t just improve how pharmaceutical companies manufacture and distribute medicines — it redefines what's possible. By integrating intelligence across the value chain, pharma firms can become more responsive, efficient, and resilient while advancing their mission to deliver safe, effective medicines to patients faster and more reliably than ever before.
 
 ## Examples of AI in Pharmaceutical Manufacturing and Supply Chain
 
