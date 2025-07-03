@@ -68,7 +68,7 @@ Pharmaceutical supply chains must deliver life-saving drugs safely, quickly, and
 
 	External events such as pandemics (e.g., COVID‑19), natural disasters, or geopolitical conflicts can disrupt raw material supply or distribution channels. The COVID‑19 pandemic exposed severe vulnerabilities in global pharma supply chains, including shortages of APIs (active pharmaceutical ingredients) and personal protective equipment (PPE).
 
-In summary, pharma companies must navigate a dual landscape of precision-driven manufacturing and volatility-prone logistics. These systemic challenges place enormous pressure on operational leaders to deliver consistent quality, minimize waste, and respond quickly to market shifts—all while maintaining compliance. This is where AI technologies are emerging as powerful tools to enhance visibility, control, and agility across the value chain.
+In summary, pharma companies must navigate a dual landscape of precision-driven manufacturing and volatility-prone logistics. These systemic challenges place enormous pressure on operational leaders to deliver consistent quality, minimize waste, and respond quickly to market shifts — all while maintaining compliance. This is where AI technologies are emerging as powerful tools to enhance visibility, control, and agility across the value chain.
 
 ![AI-driven pharmaceutical supply chain optimization with digital graphs and connected nodes](https://res.cloudinary.com/dxyptrt7m/image/upload/v1751459004/g6dnpz1abqqvfmlwpr0e.jpg)
 
