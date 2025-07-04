@@ -10,9 +10,9 @@ cover:
 
 ## 1. Introduction
 
-Imagine a world where cutting-edge artificial intelligence accelerates the discovery of life-saving drugs-transforming years of painstaking research into months, and enabling breakthroughs once thought impossible. This is no longer science fiction. Leading the charge in this revolution is Insilico Medicine, a trailblazing biotech company that stands among the pioneers harnessing AI's transformative power to redefine pharmaceutical research and drug discovery.
+Imagine a world where cutting-edge artificial intelligence accelerates the discovery of life-saving drugs-transforming years of painstaking research into months, and enabling breakthroughs once thought impossible. This is no longer science fiction. Leading the charge in this revolution is Insilico Medicine, a trailblazing biotech company that stands among the pioneers harnessing AI's transformative power to redefine pharmaceutical research and drug discovery.
 
-With its visionary approach, Insilico Medicine leverages advanced machine learning algorithms and proprietary AI platforms to unlock hidden biological insights, generate novel drug candidates, and streamline clinical development like never before. Their innovative technologies and bold mission place them at the forefront of a new era - where AI-driven innovation promises to deliver faster, smarter, and more precise medicines to patients worldwide.
+With its visionary approach, Insilico Medicine leverages advanced machine learning algorithms and proprietary AI platforms to unlock hidden biological insights, generate novel drug candidates, and streamline clinical development like never before. Their innovative technologies and bold mission place them at the forefront of a new era - where AI-driven innovation promises to deliver faster, smarter, and more precise medicines to patients worldwide.
 
 In this blog, we take a deep dive into Insilico Medicine's journey, technologies, partnerships, and pipeline, exploring how they are not just participating in the future of drug discovery but actively shaping it.
 
@@ -131,7 +131,7 @@ From a business analyst’s perspective, Insilico Medicine occupies a highly str
 
 - **Regulatory and Validation Hurdles:** While Rentosertib’s clinical progress is encouraging, AI-discovered drugs are still relatively novel in regulatory environments. Demonstrating reproducibility, safety, and efficacy in large, randomized trials will remain essential and challenging.
 
-- **Market Competition:** The AI drug discovery landscape is increasingly crowded with companies such as Exscientia, BenevolentAI, and Atomwise pushing aggressive development timelines and raising substantial capital. Maintaining differentiation through technology innovation and pipeline success is critical.
+- **Market Competition:** The AI drug discovery landscape is increasingly crowded with companies such as [Recursion Pharmaceuticals](https://kalimawiki.vercel.app/posts/recursion-pharmaceuticals_-an-analytical-overview-of-innovation-in-tech-driven-biotech-2025-06-20/), [BenevolentAI](https://kalimawiki.vercel.app/posts/benevolentai_-revolutionizing-drug-discovery-with-artificial-intelligence-2025-07-03/), and Atomwise pushing aggressive development timelines and raising substantial capital. Maintaining differentiation through technology innovation and pipeline success is critical.
 
 - **Operational Scale and Execution:** Transitioning from computational discovery to clinical development demands rigorous translational science, substantial financial outlay, and regulatory navigation—areas where Insilico Medicine must continue to build organizational capabilities.
 
