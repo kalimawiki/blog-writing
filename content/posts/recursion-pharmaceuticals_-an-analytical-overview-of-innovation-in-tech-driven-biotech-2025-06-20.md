@@ -121,7 +121,7 @@ Despite these advantages, Recursion faces inherent challenges:
 
 - **Clinical Proof Remains the Ultimate Test:** Early clinical data is promising but requires expansion to definitive outcomes. High industry attrition rates mean the uncertainty of translating AI-driven discoveries into approved therapies persists.
 
-- **Increasing Competition:** The AI-biotech sector is crowded, with players such as BenevolentAI, Insilico Medicine, and even legacy pharma integrating overlapping AI approaches. Recursion must differentiate through clinical efficacy and platform efficiency.
+- **Increasing Competition:** The AI-biotech sector is crowded, with players such as [BenevolentAI](https://kalimawiki.vercel.app/posts/benevolentai_-revolutionizing-drug-discovery-with-artificial-intelligence-2025-07-03/), [Insilico Medicine](https://kalimawiki.vercel.app/posts/in-depth-with-insilico-medicine_-redefining-pharma-through-artificial-intelligence-2025-06-17/), and even legacy pharma integrating overlapping AI approaches. Recursion must differentiate through clinical efficacy and platform efficiency.
 
 - **Complex Data Interpretation and Regulatory Hurdles:** The rich phenotypic data and AI models require clear interpretability for regulatory bodies, and approval pathways for AI-derived drugs are still evolving globally.
 
