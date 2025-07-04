@@ -79,7 +79,7 @@ Benevolent AI uses a wide variety of machine learning and deep learning techniqu
 
 ### 4. Human-AI Collaboration Framework
 
-One of Benevolent AI’s unique strengths is its **augmented discovery approach**, where domain experts—biologists, chemists, clinicians — interact directly with AI tools through intuitive interfaces. This tight human-machine collaboration ensures that AI-generated hypotheses are not just statistically valid, but biologically meaningful and experimentally testable.
+One of Benevolent AI’s unique strengths is its **augmented discovery approach**, where domain experts (biologists, chemists, clinicians) interact directly with AI tools through intuitive interfaces. This tight human-machine collaboration ensures that AI-generated hypotheses are not just statistically valid, but biologically meaningful and experimentally testable.
 
 For example:
 
@@ -118,7 +118,7 @@ Benevolent AI has built a solid foundation through strategic partnerships and ro
 
 - **Temasek**
 	
-	In September 2019, Singapore’s sovereign wealth fund Temasek invested US $90 million, valuing Benevolent AI at approximately $1 billion. The funds were earmarked for scaling the AI platform and progressing internal discovery programmes—backed by advisors like Raine Advisors.
+	In September 2019, Singapore’s sovereign wealth fund Temasek invested US $90 million, valuing Benevolent AI at approximately $1 billion. The funds were earmarked for scaling the AI platform and progressing internal discovery programmes — backed by advisors like Raine Advisors.
 
 - **Odyssey SPAC & Existing Investors**
 
@@ -188,26 +188,26 @@ Benevolent AI is one of the more exciting players in the growing world of AI-pow
 **🌟 Strengths & What They're Doing Right**
 
 - **Unique Tech Platform:** Benevolent AI’s biggest strength is its end-to-end drug discovery platform. It’s not just about throwing data into an algorithm — they’ve built a system that understands biology, maps complex disease relationships, and even suggests new drug targets or designs molecules from scratch. That’s rare.
-- **Real Collaborations, Not Just Hype:** They're not working in a vacuum. Partnerships with **AstraZeneca, Merck KGaA, and Novartis** show that big pharma trusts their tools enough to work with them. These aren’t marketing stunts — some of these deals have already led to real clinical candidates.
-- **Focused Pipeline:** Their internal drug programs are well-chosen. For example, **BEN-8744** is already in clinical trials for ulcerative colitis, and two other assets targeting ALS and glioblastoma are close behind. This shows they’re not just a tech shop: they're actually moving toward creating medicines.
+- **Real Collaborations, Not Just Hype:** They're not working in a vacuum. Partnerships with *AstraZeneca, Merck KGaA, and Novartis* show that big pharma trusts their tools enough to work with them. These aren’t marketing stunts — some of these deals have already led to real clinical candidates.
+- **Focused Pipeline:** Their internal drug programs are well-chosen. For example, *BEN-8744* is already in clinical trials for ulcerative colitis, and two other assets targeting ALS and glioblastoma are close behind. This shows they’re not just a tech shop: they're actually moving toward creating medicines.
 - **Strong Leadership & Funding:** With experienced leaders like Dr. Joerg Moeller (ex-Bayer) and strong backers like Temasek and AstraZeneca, the company isn’t lacking in direction or capital.
 
 **🚧 Challenges**
 
-- **Competitive Market:** Benevolent AI isn’t alone. Companies like Recursion, Insilico Medicine, and Exscientia are also using AI in drug discovery, and some of them are moving even faster with larger pipelines or more clinical-stage drugs.
+- **Competitive Market:** Benevolent AI isn’t alone. Companies like [Recursion Pharmaceuticals](https://kalimawiki.vercel.app/posts/recursion-pharmaceuticals_-an-analytical-overview-of-innovation-in-tech-driven-biotech-2025-06-20/), [Insilico Medicine](https://kalimawiki.vercel.app/posts/in-depth-with-insilico-medicine_-redefining-pharma-through-artificial-intelligence-2025-06-17/) are also using AI in drug discovery, and some of them are moving even faster with larger pipelines or more clinical-stage drugs.
 - **Proving AI Can Deliver:** The real test is whether AI can consistently lead to better, safer, faster drugs. So far, only a handful of AI-generated drugs have reached human trials globally. The tech is promising, but the proof is still in progress.
 - **Clinical Risk Still Exists:** Even with AI, drug development is expensive and uncertain. One failed clinical trial can set a company back years. Benevolent AI is still in the early clinical stages, so there’s a lot riding on how those trials go.
 - **Public Market Pressures:** Since going public via SPAC in 2021, Benevolent AI has faced investor scrutiny. Like many tech-biotech hybrids, their stock has seen ups and downs. That volatility can be distracting if not carefully managed.
 
 **⚖️ How They Compare to Competitors**
 
-Benevolent AI holds its own among AI drug discovery firms, especially with its solid tech foundation and real-world pharma deals. But competitors like **Recursion Pharmaceuticals** (with its massive image-based datasets) who has has recently merged with **Exscientia** (already have some candidates in Phase 2 trials) are pushing hard.
+Benevolent AI holds its own among AI drug discovery firms, especially with its solid tech foundation and real-world pharma deals. But competitors like [Recursion Pharmaceuticals](https://kalimawiki.vercel.app/posts/recursion-pharmaceuticals_-an-analytical-overview-of-innovation-in-tech-driven-biotech-2025-06-20/) (with its massive image-based datasets) who has has recently merged with Exscientia (already have some candidates in Phase 2 trials) are pushing hard.
 
 The difference? Benevolent AI is doubling down on **platform sophistication** and **focused partnerships** rather than spreading too thin. They might not be first in every race, but they are setting themselves up to be a smart, targeted disruptor.
 
 **📈 Growth Prospects & Future Outlook**
 
-The company’s near-term success hinges on two things: progressing their clinical assets (especially **BEN-8744**) and landing more high-impact partnerships. If they can show strong early results in trials and continue to sign deals like the one with Merck KGaA (worth up to $594 million in milestones), they’ll solidify their place as a serious innovator.
+The company’s near-term success hinges on two things: progressing their clinical assets (especially *BEN-8744*) and landing more high-impact partnerships. If they can show strong early results in trials and continue to sign deals like the one with Merck KGaA (worth up to $594 million in milestones), they’ll solidify their place as a serious innovator.
 
 Long term, Benevolent AI could evolve in a few directions:
 
