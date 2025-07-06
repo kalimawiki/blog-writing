@@ -16,19 +16,19 @@ Founded in 2012, Atomwise has redefined how researchers identify and optimize sm
 
 ## About Atomwise
 
-**🌟 Mission & Purpose**
+** Mission & Purpose**
 
 - Atomwise exists to invent a better way to discover drugs that help patients—by pioneering AI-driven, structure-based small molecule discovery to accelerate therapeutic breakthroughs, lower cost, and challenge previously undruggable targets.
 
-**🎯 Core Values**
+**Core Values**
 
 - The company’s core values — Innovation, Integrity, Collaboration, Excellence, and Impact — drive every aspect of its operations, from developing advanced AI tools to forging meaningful global partnerships and maintaining rigorous scientific standards.
 
-**🤝 Culture & Collaborative Spirit**
+**Culture & Collaborative Spirit**
 
 - With a highly collaborative culture, Atomwise emphasizes open scientific dialogue, mutual support, and diversity in thought. Their inclusive environment encourages Atoms (Staff) to explore groundbreaking ideas, strengthen peer learning, and combine deep domain knowledge, from AI and molecular biology to medicinal chemistry, to serve a shared purpose.
 
-**👥 Leadership Team**
+**Leadership Team**
 
 - **Steve Worland, PhD – Chief Executive Officer:** Dr. Worland joined Atomwise on February 18, 2025, bringing over 30 years in biotech and pharma. He co-founded eFFECTOR Therapeutics — steering two molecular inhibitors into Phase 2, raising $250M+, and securing a Pfizer collaboration. Previously, he led Anadys Pharmaceuticals through its $230M acquisition by Roche and contributed to pivotal drugs such as Paxlovid® (nirmatrelvir) and Inlyta® (axitinib) during senior roles at Agouron, Warner-Lambert, and Pfizer. He holds a PhD in Chemistry from UC Berkeley, completed postdoctoral work at Harvard, and earned a BS in Biological Chemistry from the University of Michigan.
 - **Neely Mozaffarian, MD, PhD – Chief Medical Officer:** Dr. Mozaffarian joined in October 2023 to drive clinical development, particularly overseeing Atomwise’s lead candidate — an AI-designed TYK2 inhibitor targeting autoimmune diseases such as psoriasis and IBD. With over 25 years in immunology and clinical research, she previously served as CMO at GentiBio and held clinical leadership roles at AbbVie, Lilly, Gilead, and Janssen/J&J. She earned her MD/PhD from Albert Einstein College of Medicine and completed her training in Internal Medicine and Rheumatology at the University of Washington.
@@ -50,7 +50,7 @@ AtomNet® is Atomwise’s flagship deep-learning platform. Think of it like faci
 To boost efficiency, Atomwise uses a smart two-step screening:
 
 - **1. Proxy Model:** A faster “preview” AI that estimates scores to narrow down the billions to a few million promising candidates.
-- **2. AtomNet® Focus:** – The real heavyweight deep-learning model then analyzes the top candidates in detail. 
+- **2. AtomNet® Focus:** The real heavyweight deep-learning model then analyzes the top candidates in detail. 
 
 This process, nicknamed the **billion trawler**, can reduce computational time by up to 500×, making billion-compound screening feasible in just a few days
 
@@ -97,12 +97,15 @@ Atomwise’s success in pioneering AI for drug discovery is supported by a solid
 Atomwise’s funding trajectory reflects both investor enthusiasm and the company’s evolving capabilities:
 
 - **Series A (2017)** – *$6 million*
+
 	Led by **Data Collective DCVC**, this early investment fueled the development of AtomNet® and initial platform validation. It marked one of the first major VC-backed bets on AI in drug discovery.
 
 - **Series B (2020 - 2021)** – *$123 million*
+
 	A transformational round led by **Khosla Ventures**, with participation from **Microsoft’s M12, GV (formerly Google Ventures), B Capital Group, Tencent**, and returning investors. This round enabled Atomwise to scale its screening capacity, grow its internal pipeline, and expand its cloud platform. It was one of the largest investments in an AI-first biotech company at the time.
 
 - **Series C (2023)** – *$175 million*
+
 	Led by **Redmile Group**, with strong backing from **Johnson & Johnson Innovation – JJDC, Sanabil Investments**, and existing investors like GV and DCVC. This round brought Atomwise’s total funding to over **$300 million**. Proceeds supported the expansion of its drug discovery pipeline, clinical transition planning, and partner engagement via its Platform-as-a-Service (PaaS) model.
 
 These investments have allowed Atomwise to scale its team, develop proprietary assets, run hundreds of discovery campaigns, and push the boundaries of structure-based AI drug discovery.
@@ -114,22 +117,28 @@ Partnerships form a key pillar of Atomwise’s business model. Rather than opera
 **Notable Collaborations:**
 
 - **Eli Lilly**
+
 	Multi-target collaboration focused on oncology drug discovery. Atomwise's AI was used to identify novel small molecule hits, significantly reducing early-stage research timelines.
 
 - **Bayer**
+
 	Partnership targeting cardiovascular and oncology indications. Bayer utilized Atomwise’s structure-based screening platform to complement its internal R&D capabilities.
 
 - **Ono Pharmaceutical (Japan)**
+
 	Collaboration in immuno-oncology, combining Atomwise’s hit discovery capacity with Ono’s therapeutic area expertise to identify novel immune-modulating agents.
 
 - **Janssen Pharmaceutica (Johnson & Johnson)**
+
 	Long-term partnership involving structure-enabled hit discovery and lead optimization, with projects aimed at multiple therapeutic areas.
 
 - **Lenovo**
+
 	Partnership aimed at accelerating high-performance computing infrastructure. Lenovo provides GPU-accelerated resources to run AtomNet® models efficiently and cost-effectively.
 
 - **University and Academic Partners**
-	 Atomwise has also collaborated with more than 250 research institutions, enabling academic scientists to access its technology via the AIMS Awards (Artificial Intelligence Molecular Screen) program.
+
+	Atomwise has also collaborated with more than 250 research institutions, enabling academic scientists to access its technology via the AIMS Awards (Artificial Intelligence Molecular Screen) program.
 
 These partnerships underscore Atomwise’s role as a technology enabler, offering cutting-edge AI tools to collaborators while gaining access to new targets and markets.
 
@@ -209,18 +218,6 @@ Atomwise also engages in a wide range of external collaborations and joint ventu
 
 ## Perspective & Analysis
 
-### Implications of Dr. Heifets’s Departure
-
-The recent departure of co-founder and former CEO Abraham Heifets toward the end of 2024 marks a significant turning point for Atomwise. As the architect of AtomNet® and the AI-driven discovery vision, his exit creates both challenges and opportunities for the company’s next growth chapter.
-
-- **Leadership Void & Cultural Shift**
-
-	The recent departure of co-founder and former CEO Abraham Heifets toward the end of 2024 marks a significant turning point for Atomwise. As the architect of AtomNet® and the AI-driven discovery vision, his exit creates both challenges and opportunities for the company’s next growth chapter.
-
-- **Transition to Professional Management**
-
-	he appointment of Dr. Steve Worland in February 2025 brings deep biotech experience, an industry veteran with a demonstrated track record. This suggests Atomwise is transitioning from founder-led innovation to execution-focused, professionally-managed growth.
-
 ### Strengths & Competitive Advantages
 
 **1. Proprietary and Differentiated AI Platform**
@@ -249,11 +246,13 @@ The company’s dual approach — **proprietary pipeline + Platform-as-a-Service
 
 The shift in leadership may bring stronger commercial execution, institutional infrastructure, and clearer regulatory strategy, evidence that the company is preparing for clinical-stage rigor.
 
-### Challenges
+### Current Challenges & Risks
 
-**1. Cultural Continuity & Founder Influence**
+**1. Management Transition & Cultural Continuity**
 
-Maintaining core innovation momentum after a founder’s exit is never easy. Atomwise must balance stability with adaptive change. Heifets's departure means the loss of a visionary leader who deeply understood the science and AI. Atomwise must compensate through strong scientific leadership.
+The recent departure of co-founder and former CEO Abraham Heifets toward the end of 2024 marks a significant turning point for Atomwise. As the architect of AtomNet® and the AI-driven discovery vision, his exit creates both challenges and opportunities for the company’s next growth chapter.
+
+Maintaining core innovation momentum after a founder’s exit is never easy. Atomwise must balance stability with adaptive change. Dr Heifets's departure means the loss of a visionary leader who deeply understood the science and AI. Atomwise must compensate through strong scientific leadership.
 
 **2. Lack of Clinical Validation**
 
@@ -283,16 +282,20 @@ Atomwise operates in a competitive but rapidly expanding landscape of AI-driven 
 **Key Comparative Insights:**
 
 - **AI Focus & Differentiation**
+
 	Atomwise stands out for its early commitment to **structure-based prediction** using deep learning — an approach that offers strong precision for identifying novel binders and targets. While competitors like Recursion and Insilico rely heavily on generative models, Atomwise emphasizes target-specific 3D modeling and biophysical interactions, making its platform especially valuable in hit identification and lead optimization.
 
 - **Pipeline Depth**
+
 	Atomwise has historically focused more on partnerships and virtual screening, but it's now catching up with its first proprietary drug candidate (ATMW‑DC) entering preclinical IND-enabling studies. In contrast, competitors like Exscientia and Recursion have already advanced multiple molecules into clinical trials. This puts Atomwise slightly behind in terms of clinical maturity, though still within striking range.
 
 - **Business Model Flexibility**
+
 	Unlike some competitors that rely primarily on internal pipeline development, Atomwise combines a **Platform-as-a-Service (PaaS)** model with its own proprietary drug development. This hybrid approach offers revenue diversification: ongoing partner deals provide near-term income, while internal programs offer long-term upside if successful in the clinic.
 
 - **Financial Positioning**
-	Atomwise’s $300M+ in funding is solid and places it in the upper-middle tier of AI biotech companies. While it trails Recursion’s IPO-level capital or Exscientia’s larger rounds, it has sufficient runway to fund clinical advancement of its pipeline without immediate liquidity pressure.
+
+	Atomwise’s $300M+ in funding is solid and places it in the upper-middle tier of AI biotech companies. While it trails Recursion’s IPO-level capital or Exscientia’s larger rounds, it has sufficient runway to fund the clinical advancement of its pipeline without immediate liquidity pressure.
 
 ### Growth Prospects & Future Predictions
 
