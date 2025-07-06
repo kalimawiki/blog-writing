@@ -152,11 +152,11 @@ These financial and strategic collaborations enable Atomwise to push the frontie
 
 Atomwise generates revenue through two primary streams:
 
-- **1. Collaborative Drug Discovery Projects**
+- **Collaborative Drug Discovery Projects**
 	
 	Atomwise partners with pharma and biotech firms to discover novel small molecules for specific targets. In exchange, the company receives upfront payments, milestone-based fees, and potential royalty rights.
 
-- **2. Platform-as-a-Service (PaaS)**
+- **Platform-as-a-Service (PaaS)**
 	
 	Partners can directly access Atomwise’s AI screening technology via a cloud platform. This scalable, flexible model is increasingly attractive to biotech firms seeking to reduce R&D costs and increase discovery speed.
 
