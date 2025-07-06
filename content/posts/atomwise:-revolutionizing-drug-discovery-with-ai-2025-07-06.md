@@ -4,7 +4,7 @@ date: 2025-07-06T00:00:00+07:00
 draft: false
 tags: ["Biotech", "AI", "Drug Discovery", "Atomwise", "Pharmaceutical Industry", "Analysis"]
 cover:
-  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1751796687/sai9i9oagfozpqdk0uel.jpg"
+  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1751797966/mqvwaigd6bdgmav6inqw.jpg"
   alt: "Atomwise AI drug discovery with logo"
 ---
 
