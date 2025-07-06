@@ -287,7 +287,7 @@ Atomwise operates in a competitive but rapidly expanding landscape of AI-driven 
 
 - **Pipeline Depth**
 
-	Atomwise has historically focused more on partnerships and virtual screening, but it's now catching up with its first proprietary drug candidate (ATMW‑DC) entering preclinical IND-enabling studies. In contrast, competitors like Exscientia and Recursion have already advanced multiple molecules into clinical trials. This puts Atomwise slightly behind in terms of clinical maturity, though still within striking range.
+	Atomwise has historically focused more on partnerships and virtual screening, but it's now catching up with its first proprietary drug candidate (ATMW‑DC) entering preclinical IND-enabling studies. In contrast, competitors like Insilico, Recursion, or BenevolentAI have already advanced multiple molecules into clinical trials. This puts Atomwise slightly behind in terms of clinical maturity, though still within striking range.
 
 - **Business Model Flexibility**
 
@@ -295,7 +295,7 @@ Atomwise operates in a competitive but rapidly expanding landscape of AI-driven 
 
 - **Financial Positioning**
 
-	Atomwise’s $300M+ in funding is solid and places it in the upper-middle tier of AI biotech companies. While it trails Recursion’s IPO-level capital or Exscientia’s larger rounds, it has sufficient runway to fund the clinical advancement of its pipeline without immediate liquidity pressure.
+	Atomwise’s $300M+ in funding is solid and places it in the upper-middle tier of AI biotech companies. While it trails Recursion’s IPO-level capital, it has sufficient runway to fund the clinical advancement of its pipeline without immediate liquidity pressure.
 
 ### Growth Prospects & Future Predictions
 
