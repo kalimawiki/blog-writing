@@ -49,8 +49,8 @@ AtomNet® is Atomwise’s flagship deep-learning platform. Think of it like faci
 
 To boost efficiency, Atomwise uses a smart two-step screening:
 
-- **1. Proxy Model:** A faster “preview” AI that estimates scores to narrow down the billions to a few million promising candidates.
-- **2. AtomNet® Focus:** The real heavyweight deep-learning model then analyzes the top candidates in detail. 
+- **Proxy Model:** A faster “preview” AI that estimates scores to narrow down the billions to a few million promising candidates.
+- **AtomNet® Focus:** The real heavyweight deep-learning model then analyzes the top candidates in detail. 
 
 This process, nicknamed the **billion trawler**, can reduce computational time by up to 500×, making billion-compound screening feasible in just a few days
 
