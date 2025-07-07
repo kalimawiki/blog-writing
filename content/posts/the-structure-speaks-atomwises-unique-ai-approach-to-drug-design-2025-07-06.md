@@ -16,7 +16,7 @@ Founded in 2012, Atomwise has redefined how researchers identify and optimize sm
 
 ## About Atomwise
 
-** Mission & Purpose**
+**Mission & Purpose**
 
 - Atomwise exists to invent a better way to discover drugs that help patients—by pioneering AI-driven, structure-based small molecule discovery to accelerate therapeutic breakthroughs, lower cost, and challenge previously undruggable targets.
 
