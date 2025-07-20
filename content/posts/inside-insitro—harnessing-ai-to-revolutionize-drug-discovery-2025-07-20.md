@@ -1,5 +1,5 @@
 ---
-title: "Inside Insitro: Harnessing AI to Revolutionize Drug Discovery"
+title: "Inside Insitro: Harnessing AI to Revolutionize Drug Discovery"
 date: 2025-07-20T13:49:00.000+07:00
 draft: false
 tags: ["AI", "pharmaceutical", "drug discovery", "Insitro", "Analysis"]
