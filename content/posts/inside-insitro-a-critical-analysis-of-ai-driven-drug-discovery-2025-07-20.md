@@ -3,7 +3,7 @@ title: "Inside Insitro: A Critical Analysis of AI-Driven Drug Discovery"
 date: 2025-07-20T13:49:00.000+07:00
 draft: false
 tags: ["AI", "Pharmaceuticals", "Drug Discovery", "Insitro", "Analysis"]
-over:
+cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1752995060/ly3nvkvy4sxx4rjmwzci.jpg"
   alt: "Insitro Cover Image with Company Logo"
 ---
