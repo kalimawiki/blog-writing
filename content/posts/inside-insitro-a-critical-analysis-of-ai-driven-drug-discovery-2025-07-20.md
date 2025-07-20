@@ -263,14 +263,18 @@ Currently the industry leader in advanced clinical validation:
 Despite sophisticated technology, faces significant market challenges:
 
 *Technology Platform*: Advanced knowledge graph-based AI system analyzing biomedical literature and data
+
 *Market Challenges*: Dramatic stock decline reflecting investor skepticism about AI drug discovery timeline and effectiveness
+
 *Lessons for Insitro*: Demonstrates that technological sophistication alone doesn't guarantee market success
 
 **[Atomwise](https://kalimawiki.vercel.app/posts/the-structure-speaks-atomwises-unique-ai-approach-to-drug-design-2025-07-06/)**
 Established AI drug discovery company with focus on small molecule design:
 
 *Approach*: Deep learning for molecular property prediction and drug design
+
 *Partnerships*: Collaborations with multiple pharmaceutical companies but limited advanced clinical programs
+
 *Market Position*: Represents the challenges facing first-generation AI drug discovery companies
 
 ### Insitro's Competitive Positioning
