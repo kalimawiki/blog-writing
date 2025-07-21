@@ -349,11 +349,13 @@ The FDA has begun developing frameworks for AI-discovered drugs, but regulatory 
 
 Insitro's partnerships with pharmaceutical companies provide crucial clinical development expertise:
 
-**Regulatory Experience**: Partners bring decades of experience navigating FDA approval processes
-**Clinical Trial Infrastructure**: Established relationships with clinical research organizations and medical centers  
-**Commercial Capabilities**: Marketing and distribution expertise for approved drugs
+**Regulatory Experience**: Partners bring decades of experience navigating FDA approval processes.
 
-**Risk Sharing**: Partnerships distribute the substantial financial risks of clinical development across multiple stakeholders
+**Clinical Trial Infrastructure**: Established relationships with clinical research organizations and medical centers.
+
+**Commercial Capabilities**: Marketing and distribution expertise for approved drugs.
+
+**Risk Sharing**: Partnerships distribute the substantial financial risks of clinical development across multiple stakeholders.
 
 ## Investment Analysis: Risk-Reward Assessment
 
