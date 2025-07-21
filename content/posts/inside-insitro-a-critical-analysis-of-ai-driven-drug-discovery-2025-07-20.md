@@ -353,9 +353,9 @@ Insitro's partnerships with pharmaceutical companies provide crucial clinical de
 
 **Clinical Trial Infrastructure**: Established relationships with clinical research organizations and medical centers.
 
-**Commercial Capabilities**: Marketing and distribution expertise for approved drugs
+**Commercial Capabilities**: Marketing and distribution expertise for approved drugs.
 
-**Risk Sharing**: Partnerships distribute the substantial financial risks of clinical development across multiple stakeholders
+**Risk Sharing**: Partnerships distribute the substantial financial risks of clinical development across multiple stakeholders.
 
 ## Investment Analysis: Risk-Reward Assessment
 
