@@ -8,8 +8,6 @@ cover:
   alt: "AI ethics and regulatory considerations in pharmaceutical industry"
 ---
 
-# The Ethics and Regulatory Considerations of AI in Pharma
-
 Imagine taking a medication that was discovered, tested, and approved with help from artificial intelligence—but you have no idea how the AI made its decisions about your treatment. That scenario isn't science fiction; it's happening right now in pharmaceutical companies worldwide. As of 2024, over 60% of major pharma companies are using AI in drug discovery, yet most patients remain unaware of how these invisible algorithms might affect their healthcare.
 
 If you've ever wondered whether your medication was the right choice for your specific condition, or worried about side effects that seemed to come out of nowhere, you're touching on one of the biggest challenges facing modern medicine: ensuring AI systems work fairly and safely for everyone.
