@@ -30,7 +30,7 @@ More importantly, AI reveals entirely new categories of "undruggable" targets, e
 
 If AI target identification is impressive, de novo drug design borders on science fiction. These systems don't find existing molecules that might work—they design entirely new structures optimized for specific therapeutic goals.
 
-The challenge is staggering. Theoretical chemical space contains approximately 10^60 possible drug-like molecules—more than atoms in the observable universe. Traditional chemistry explores this through educated guesswork. AI approaches it like a master architect understanding every possible building material combination.
+The challenge is staggering. Theoretical chemical space contains approximately 10<sup>60</sup> possible drug-like molecules—more than atoms in the observable universe. Traditional chemistry explores this through educated guesswork. AI approaches it like a master architect understanding every possible building material combination.
 
 Generative adversarial networks (GANs) pit two neural networks against each other: one generates molecular structures while the other evaluates their drug-like properties. Through millions of iterations, the generator creates increasingly promising compounds while the discriminator improves at identifying likely successes.
 
