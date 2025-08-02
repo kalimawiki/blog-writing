@@ -38,7 +38,7 @@ theme = "PaperMod"
 
 [[menu.main]]
   name = "Category"
-  url = "#"
+  url = "/categories/"
   weight = 3
   identifier = "category"
 
