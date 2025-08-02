@@ -1,0 +1,75 @@
+{{- /*
+This is a modified header partial for the PaperMod theme.
+It replaces the default menu rendering logic with one that supports nested dropdowns.
+It checks for `if .HasChildren` in the menu range and creates a nested `<ul>` with a `submenu` class if children are found.
+*/ -}}
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            {{- if .Site.Params.logo }}
+            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ .Site.Title }} (Alt + H)">
+                <img src="{{ .Site.Params.logo | absURL }}" alt="logo" aria-label="logo"
+                    height="{{ .Site.Params.logoHeight | default 35 }}">
+            </a>
+            {{- else }}
+            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ .Site.Title }} (Alt + H)">
+                <span class="logo-text">{{ .Site.Title }}</span>
+            </a>
+            {{- end }}
+            <div class="logo-switches">
+                {{- if (not .Site.Params.disableThemeToggle) }}
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                {{- end }}
+            </div>
+        </div>
+        <ul id="menu">
+            {{- range .Site.Menus.main }}
+            {{- if .HasChildren }}
+            <li class="has-children">
+                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                    <span>{{ .Name }}</span>
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" width="12">
+                        <path d="M6 9l6 6 6-6"></path>
+                    </svg>
+                </a>
+                <ul class="submenu">
+                    {{- range .Children }}
+                    <li>
+                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                    {{- end }}
+                </ul>
+            </li>
+            {{- else }}
+            <li>
+                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                    <span>{{ .Name }}</span>
+                </a>
+            </li>
+            {{- end }}
+            {{- end }}
+        </ul>
+    </nav>
+</header>
