@@ -2,6 +2,7 @@
 title: "AI in Pharmaceuticals: The Tools That Are Changing the Game"
 date: 2025-07-09T18:54:39+07:00
 draft: false
+categories: ["General"]
 tags: ["AI", "Pharmaceuticals Research", "DeepChem", "RDKit", "ChemBERTa", "SMILES Transformer", "GraphConv", "AutoDock Vina", "Schrödinger Suite", "IBM RXN", "GENTRL", "scape-DB", "Tools"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1752061702/pzyap2w306huzmtzyair.jpg"
