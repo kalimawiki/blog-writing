@@ -21,8 +21,8 @@ theme = "PaperMod"
   showPostsOnHomePage = true
   ShowPostNavLinks = true
   showTags = true
-  [params.assets/css]
-  customCSS = ["custom.css"]
+  [params.assets]
+  customCSS = ["css/custom.css"]
 
   [params.homeInfoParams]
     Title = "Welcome to Kalima Wiki"
