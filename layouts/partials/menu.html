@@ -3,10 +3,13 @@
     {{ range .Site.Menus.main }}
       <li class="{{ if .HasChildren }}has-children{{ end }}">
         <a href="{{ .URL }}">{{ .Name }}</a>
+
         {{ if .HasChildren }}
           <ul class="submenu">
             {{ range .Children }}
-              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
             {{ end }}
           </ul>
         {{ end }}
