@@ -2,6 +2,7 @@
 title: "BenevolentAI: Revolutionizing Drug Discovery with Artificial Intelligence"
 date: 2025-07-03T00:00:00.000+07:00
 draft: false
+categories: ["Start-up"]
 tags: ["AI", "Biotech", "Pharmaceutical Industry", "Drug Discovery", "BenevolentAI", "Analysis"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1751545670/z4xf4lwapejwnz8btmek.jpg"
