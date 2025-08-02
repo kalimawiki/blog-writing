@@ -2,7 +2,13 @@ baseURL = "https://kalimawiki-preview.vercel.app/"
 languageCode = "en-us"
 title = "Kalima Wiki"
 theme = "PaperMod"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [params]
   defaultTheme = "auto" # auto, dark, light
@@ -63,15 +69,3 @@ paginate = 10
   name = "Contact"
   url = "/contact/"
   weight = 5
- 
-[pagination]
-  pagerSize = 5
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
