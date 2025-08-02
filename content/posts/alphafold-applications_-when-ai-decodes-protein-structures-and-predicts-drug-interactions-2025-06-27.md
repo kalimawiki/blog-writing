@@ -2,6 +2,7 @@
 title: "AlphaFold Applications: When AI Decodes Protein Structures and Predicts Drug Interactions"
 date: 2025-06-27T00:00:00+07:00
 draft: false
+categories: ["Technology"]
 tags: ["AI", "AlphaFold", "protein", "Pharmaceuticals", "Molecular Interactions", "Tools"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1751020909/c4z39pkwigbufbhww63q.jpg"
