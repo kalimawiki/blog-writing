@@ -31,14 +31,38 @@ paginate = 10
   weight = 2
 
 [[menu.main]]
+  name = "Category"
+  url = "#"
+  weight = 3
+  identifier = "category"
+
+[[menu.main]]
+  name = "General"
+  url = "/categories/general/"
+  parent = "category"
+  weight = 1
+
+[[menu.main]]
+  name = "Technology"
+  url = "/categories/technology/"
+  parent = "category"
+  weight = 2
+
+[[menu.main]]
+  name = "Start-up"
+  url = "/categories/start-up/"
+  parent = "category"
+  weight = 3
+
+[[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 4
+  weight = 5
  
 [pagination]
   pagerSize = 5
