@@ -1,47 +1,53 @@
-/* Main Menu */
-.main-menu {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  gap: 1rem;
+/*
+This CSS is for creating a dropdown menu in the PaperMod theme.
+It works in conjunction with the modified layouts/partials/header.html file.
+The selectors are prefixed with #menu to increase specificity and override theme defaults.
+*/
+
+/* Add a dropdown arrow to menu items with children */
+#menu .has-children > a {
+    display: flex;
+    align-items: center;
+    gap: 6px; /* Adjust space between text and arrow */
 }
 
-.main-menu li {
-  position: relative;
+/* Ensure the parent list item is a positioning context for the submenu */
+#menu li {
+    position: relative;
 }
 
-.main-menu a {
-  text-decoration: none;
-  padding: 8px 12px;
+/* Hide the submenu by default using a more specific selector */
+#menu .submenu {
+    display: none;
+    position: absolute;
+    top: 100%; /* Position it directly below the parent item */
+    left: 0;
+    list-style: none;
+    margin: 0;
+    padding: 8px 0; /* Add some vertical padding */
+    background: var(--background); /* Use theme's background color */
+    border: 1px solid var(--border); /* Use theme's border color */
+    border-radius: var(--radius); /* Use theme's border radius */
+    min-width: 180px; /* Set a minimum width for the dropdown */
+    z-index: 1000; /* Ensure it appears above other content */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Add a subtle shadow */
 }
 
-/* Submenu (Dropdown) */
-.submenu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  background: var(--theme);
-  border: 1px solid var(--border);
-  min-width: 150px;
-  z-index: 1000;
+/* Show the submenu when hovering over the parent list item */
+#menu .has-children:hover > .submenu {
+    display: block;
 }
 
-.submenu li a {
-  font-size: 0.9rem;
-  padding: 8px 12px;
-  display: block;
+/* Styling for individual links inside the dropdown */
+#menu .submenu li a {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+    display: block; /* Make the entire area clickable */
+    white-space: nowrap; /* Prevent menu items from wrapping */
+    color: var(--content); /* Use theme's text color */
 }
 
-.submenu li a:hover {
-  background: var(--entry);
-}
-
-/* Show submenu on hover */
-.has-children:hover .submenu {
-  display: block;
+/* Add a hover effect for submenu items */
+#menu .submenu li a:hover {
+    background-color: var(--tertiary-bg); /* Use theme's hover color */
 }
