@@ -21,6 +21,8 @@ theme = "PaperMod"
   showPostsOnHomePage = true
   ShowPostNavLinks = true
   showTags = true
+  [params.assets]
+  customCSS = ["css/custom.css"]
 
   [params.homeInfoParams]
     Title = "Welcome to Kalima Wiki"
@@ -38,7 +40,7 @@ theme = "PaperMod"
 
 [[menu.main]]
   name = "Category"
-  url = "/categories/"
+  url = "/categories"
   weight = 3
   identifier = "category"
 
