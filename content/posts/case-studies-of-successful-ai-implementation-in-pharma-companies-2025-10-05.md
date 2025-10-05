@@ -24,7 +24,7 @@ This case underscores how AI can dramatically compress early-stage discovery tim
 
 [Atomwise](https://kalimawiki-preview.vercel.app/posts/the-structure-speaks-atomwises-unique-ai-approach-to-drug-design-2025-07-06/) pioneered the use of deep convolutional neural networks (CNNs) for structure-based drug design through its platform, AtomNet. The model predicts bioactivity and binding affinity of small molecules to protein targets by analyzing three-dimensional atomic structures.
 
-In collaboration with research institutions such as the University of Toronto and IBM, Atomwise has applied its technology to rapidly identify hit compounds for infectious disease targets, including Ebola. The company’s virtual screening approach has prioritized large numbers of molecules and identified several promising candidates for follow-up testing (Source: [Atowise Blog](https://blog.atomwise.com/tackling-emerging-viral-diseases-by-co-founding-company-to-discover-new-broad-spectrum-antivirals))
+In collaboration with research institutions such as the University of Toronto and IBM, Atomwise has applied its technology to rapidly identify hit compounds for infectious disease targets, including Ebola. The company’s virtual screening approach has prioritized large numbers of molecules and identified several promising candidates for follow-up testing (Source: [Atowise Blog](https://blog.atomwise.com/tackling-emerging-viral-diseases-by-co-founding-company-to-discover-new-broad-spectrum-antivirals)).
 
 Although laboratory validation remains crucial, Atomwise’s AI platform has drastically reduced the time and resources required to pinpoint potentially effective drug candidates from billions of molecular structures.
 
@@ -50,7 +50,7 @@ Other deployments have shown reduced recruitment durations by several months and
 
 Tempus is a leader in AI-powered precision medicine, combining genomic sequencing, clinical data abstraction, and machine learning to support oncologists in therapy selection and trial matching. The company’s TIME Trial Network uses NLP and ML to automatically match patients to relevant clinical trials.
 
-In one program presented at ASCO, Tempus screened over 190,000 patients and matched 332 patients to 21 interventional clinical trials via its matching application (Source: [American Society of Clinical Oncology](https://meetings.asco.org/abstracts-presentations/200192).
+In one program presented at ASCO, Tempus screened over 190,000 patients and matched 332 patients to 21 interventional clinical trials via its matching application (Source: [American Society of Clinical Oncology](https://meetings.asco.org/abstracts-presentations/200192)).
 
 The study demonstrated that combining structured genomic data with unstructured clinical information can greatly scale high-fidelity patient-trial matching. While outcome improvements (such as survival gains) are still being evaluated, Tempus has clearly advanced operational metrics—notably improving the accuracy and speed of trial matching and data-driven decision support in precision oncology.
 
