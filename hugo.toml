@@ -1,73 +1,44 @@
 baseURL = "https://kalimawiki-preview.vercel.app/"
-languageCode = "en-us"
 title = "Kalima Wiki"
 theme = "PaperMod"
-
-[pagination]
-  pagerSize = 10
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+languageCode = "en-us"
+buildFuture = true
 
 [params]
-  defaultTheme = "auto" # auto, dark, light
+  author = "Kalima Wiki"
+  defaultTheme = "auto"
   showReadingTime = true
-  showShareButtons = true
-  showPostNavLinks = true
-  showBreadCrumbs = true
-  showCodeCopyButtons = true
-  showFullTextinRSS = false
-  showPostsOnHomePage = true
-  ShowPostNavLinks = true
-  showTags = true
-  [params.assets]
-  customCSS = ["css/custom.css"]
+  showToc = true
+  showBreadCrumbs = false
+  ShowShareButtons = true
+  defaultCover = "https://res.cloudinary.com/dxyptrt7m/image/upload/v1749811928/tdnrapyunqagptn0hbca.jpg"
 
-  [params.homeInfoParams]
-    Title = "Welcome to Kalima Wiki"
-    Content = "Your AI-powered source for pharmaceutical industry insights — exploring the future of drug discovery and healthcare."
+[menu]
 
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
-[[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 2
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
 
-[[menu.main]]
-  name = "Category"
-  url = "/categories"
-  weight = 3
-  identifier = "category"
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
 
-[[menu.main]]
-  name = "General"
-  url = "/categories/general/"
-  parent = "category"
-  weight = 1
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
 
-[[menu.main]]
-  name = "Technology"
-  url = "/categories/technology/"
-  parent = "category"
-  weight = 2
+[pagination]
+  pagerSize = 5
 
-[[menu.main]]
-  name = "Start-up"
-  url = "/categories/start-up/"
-  parent = "category"
-  weight = 3
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 4
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 5
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
