@@ -18,8 +18,6 @@ Importing APIs requires navigating strict regulatory frameworks, managing cross-
 
 This post examines Vietnam’s pharmaceutical manufacturing and API import landscape, covering market conditions, policy direction, regulatory frameworks, and key challenges. Understanding these factors helps businesses, investors, and policymakers make informed decisions as Vietnam moves toward becoming a more self-reliant and innovative pharma hub.
 
----
-
 ## Overview of Pharma Manufacturing in Vietnam
 
 Vietnam’s pharmaceutical manufacturing sector continues to expand, supported by favorable demographics and sustained economic growth. The country hosts over 200 GMP-certified pharmaceutical manufacturers — ranging from multinational corporations to domestic enterprises producing generics, OTC medicines, and limited local APIs.[^1]
@@ -39,8 +37,6 @@ This plan seeks to enhance domestic drug production, upgrade GMP standards, and 
 Industrial zones in Ho Chi Minh City, Hanoi, and Da Nang now host increasingly modernized facilities, incorporating automation and digitalized quality control. Technology-transfer partnerships and training initiatives are improving productivity and regulatory compliance, helping Vietnam strengthen its position within ASEAN’s pharmaceutical supply network.
 
 Despite these improvements, local production of complex APIs remains limited, hindered by high capital requirements, technical constraints, and shortages of skilled chemists and regulatory experts.[^3]
-
----
 
 ## Role and Importance of API Imports in Vietnam
 
@@ -64,8 +60,6 @@ While imports give Vietnam access to a wide range of raw materials, this depende
 ### Efforts Toward Local API Production
 
 Recognizing these risks, policymakers are promoting domestic API production through R&D funding, investment incentives, and public-private partnerships focused on chemical synthesis and biopharma capabilities. However, significant technical and financial hurdles remain, making self-sufficiency a long-term goal rather than an immediate reality.
-
----
 
 ## Market Dynamics Affecting Pharma Manufacturing and API Imports
 
@@ -91,8 +85,6 @@ While GMP enforcement has strengthened, compliance costs can be burdensome for s
 
 The COVID-19 pandemic highlighted global pharmaceutical vulnerabilities, causing temporary API shortages and cost increases. This experience has accelerated discussions on supply diversification, strategic stockpiling, and local API capacity development within Vietnam’s policy agenda.
 
----
-
 ## Regulatory Environment for API Imports
 
 API importation is governed by Vietnam’s Ministry of Health through the *Drug Administration of Vietnam (DAV)*, which manages registration, import licensing, and quality inspections.
@@ -112,8 +104,6 @@ Reforms under the 2030 national strategy emphasize digitalization of administrat
 
 ![Pharmaceutical manuactoring and API imports](https://res.cloudinary.com/dxyptrt7m/image/upload/v1761135943/yfbberxbb1jnlqegqztz.jpg)
 
----
-
 ## Opportunities and Challenges
 
 ### Opportunities
@@ -131,8 +121,6 @@ Reforms under the 2030 national strategy emphasize digitalization of administrat
 - **Talent Shortages:** Limited numbers of specialists in pharmaceutical chemistry and regulatory affairs slow local R&D progress.  
 - **Geopolitical Risk:** Trade or policy shifts in major supplier nations, especially China and India, could strain availability.
 
----
-
 ## Conclusion
 
 Vietnam’s pharmaceutical manufacturing industry stands at a pivotal point — poised for growth but still constrained by its heavy reliance on imported APIs.  
@@ -145,7 +133,6 @@ If you want to explore pharma manufacturing and API import strategies tailored t
 ---
 
 ## References
-
 [^1]: Drug Administration of Vietnam (DAV), 2024; various market analyses report 240–290 licensed pharma manufacturers.  
 [^2]: Decision No.1165/QĐ-TTg, *National Strategy for Developing Vietnam’s Pharmaceutical Industry to 2030, Vision 2045* (Prime Minister’s Office, Oct 2023).  
 [^3]: FPTS Industry Update; C&EN feature “Vietnam’s Chemical Industry and API Production Challenges” (2022).  
