@@ -130,9 +130,8 @@ As Vietnam continues its journey toward becoming an influential pharmaceutical h
 
 If you want to explore pharma manufacturing and API import strategies tailored to Vietnam or seek expert insights, don’t hesitate to [contact us](https://kalimawiki.vercel.app/contact/).
 
----
-
 ## References
+
 [^1]: Drug Administration of Vietnam (DAV), 2024; various market analyses report 240–290 licensed pharma manufacturers.  
 [^2]: Decision No.1165/QĐ-TTg, *National Strategy for Developing Vietnam’s Pharmaceutical Industry to 2030, Vision 2045* (Prime Minister’s Office, Oct 2023).  
 [^3]: FPTS Industry Update; C&EN feature “Vietnam’s Chemical Industry and API Production Challenges” (2022).  
