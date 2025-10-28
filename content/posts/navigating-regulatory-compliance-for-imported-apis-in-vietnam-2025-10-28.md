@@ -1,5 +1,5 @@
 ---
-title: "Navigating Regulatory Compliance for Imported APIs in Pharmaceutical Production: Focus on Vietnam Market"
+title: "Navigating Regulatory Compliance for Imported APIs in Vietnam"
 date: 2025-10-28T12:00:00+07:00
 draft: false
 tags: ["Pharmaceutical Manufacturing", "API Imports", "Regulatory Compliance", "Vietnam Pharma Market"]
