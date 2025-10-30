@@ -18,10 +18,6 @@ However, importing APIs introduces a complex layer of regulatory compliance chal
 
 In this comprehensive guide, we explore the multifaceted regulatory environment surrounding imported APIs, identify common pitfalls, and recommend strategic best practices combined with technological advancements to help manufacturers seamlessly navigate the regulatory maze.
 
-![Pharmaceutical manufacturing and API imports regulatory compliance](https://res.cloudinary.com/dxyptrt7m/image/upload/v1761652049/moae6vd3cr6zywtyrcn5.jpg)
-
----
-
 ## Understanding Regulatory Requirements for Imported APIs
 
 ### Key Regulatory Authorities and Their Roles
@@ -49,7 +45,7 @@ Many jurisdictions require APIs to be registered or licensed for import before t
 
 Complying with these requirements ensures smooth importation and legal distribution of pharmaceutical products.
 
----
+![Pharmaceutical manufacturing and API imports regulatory compliance](https://res.cloudinary.com/dxyptrt7m/image/upload/v1761652049/moae6vd3cr6zywtyrcn5.jpg)
 
 ## Challenges in Ensuring Compliance for Imported APIs
 
@@ -90,8 +86,6 @@ Maintaining comprehensive traceability from raw material sourcing to final deliv
 Regulatory agencies regularly update requirements to address emerging safety concerns, new scientific knowledge, or global health priorities. Staying abreast of these changes is challenging but necessary to avoid compliance gaps.
 
 Additionally, geopolitical factors, trade policies, and pandemics (e.g., COVID-19) can disrupt API sourcing strategies and complicate compliance efforts.
-
----
 
 ## Best Practices for Compliance Management
 
@@ -136,8 +130,6 @@ Additionally, geopolitical factors, trade policies, and pandemics (e.g., COVID-1
 - Evaluate risks related to supplier reliability, documentation accuracy, and product quality.
 - Develop mitigation plans such as dual sourcing, additional testing, or enhanced supplier monitoring.
 
----
-
 ## Role of Technology in Streamlining Compliance
 
 ### Artificial Intelligence and Regulatory Monitoring
@@ -156,8 +148,6 @@ Digital systems consolidate import/export documentation, Certificates of Analysi
 
 Emerging blockchain applications create immutable transaction records, tracking API origin, handling, and transfer steps. This technology strengthens traceability and exposes counterfeit or diverted products.
 
----
-
 ## Conclusion
 
 Navigating the complex regulatory environment governing imported APIs is no small feat. However, pharmaceutical manufacturers that commit to comprehensive compliance strategies will gain competitive advantages through:
@@ -168,5 +158,3 @@ Navigating the complex regulatory environment governing imported APIs is no smal
 - Reduced risk of costly recalls and reputational damage
 
 By combining robust best practices with technological innovation, companies can transform regulatory compliance from a challenge into a strategic asset.
-
-If your pharmaceutical operations involve sourcing imported APIs and you would like expert guidance on compliance management tailored to your specific needs, please feel free to [contact us](https://kalimawiki.vercel.app/contact/). We are here to help you ensure regulatory success and protect patient safety.
