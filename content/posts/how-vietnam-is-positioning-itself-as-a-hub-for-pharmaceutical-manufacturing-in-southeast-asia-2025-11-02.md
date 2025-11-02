@@ -1,6 +1,6 @@
 ---
 title: "How Vietnam is Positioning Itself as a Hub for Pharmaceutical Manufacturing in Southeast Asia"
-date: 2024-06-05T10:00:00+07:00
+date: 2025-11-03T10:00:00+07:00
 draft: false
 tags: ["Pharmaceutical Manufacturing", "Vietnam Pharma", "API Imports", "Southeast Asia Pharma"]
 cover:
