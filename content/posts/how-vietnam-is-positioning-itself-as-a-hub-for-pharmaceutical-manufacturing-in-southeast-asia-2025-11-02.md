@@ -20,7 +20,7 @@ This article delves deeply into how Vietnam is positioning itself strategically,
 
 ### Prime Geographic Location and Regional Connectivity
 
-Vietnam’s unique geographic location plays a pivotal role in its pharmaceutical manufacturing ambitions. Located in the heart of Southeast Asia, it serves as a natural gateway for trade and distribution across the ASEAN region — a market of more than 650 million people projected to see pharmaceutical spending reach $44 billion by 2024 according to Frost & Sullivan.
+Vietnam’s unique geographic location plays a pivotal role in its pharmaceutical manufacturing ambitions. Located in the heart of Southeast Asia, it serves as a natural gateway for trade and distribution across the ASEAN region. The ASEAN market represents a large and growing opportunity for pharmaceutical demand; several market reports forecast strong regional growth.
 
 Vietnam borders China, the world's largest producer of APIs and pharmaceuticals, providing direct access to a rich supplier network. Additionally, its proximity to other pharmaceutical manufacturing powerhouses like India and Singapore allows supply chain diversification and efficient market access.
 
@@ -28,7 +28,7 @@ Vietnam’s ports—such as Hai Phong in the north and Cat Lai in the south—ar
 
 ### Competitive Labor Costs Coupled with Growing Skillsets
 
-A significant draw for pharmaceutical manufacturers is Vietnam’s attractive labor cost structure. According to the International Labour Organization, average manufacturing wages in Vietnam remain approximately 50-60% lower than neighboring Thailand and Malaysia. For pharmaceutical companies whose operations are often labor-intensive, this offers a considerable cost advantage.
+A significant draw for pharmaceutical manufacturers is Vietnam’s attractive labor cost structure. According to the International Labour Organization, average manufacturing wages in Vietnam remain lower than neighboring Thailand and Malaysia. For pharmaceutical companies whose operations are often labor-intensive, this offers a considerable cost advantage.
 
 More importantly, Vietnam is successfully upgrading its labor force quality. Through improved vocational training programs and partnerships with universities specializing in pharmacy, chemistry, biotechnology, and life sciences, Vietnam is cultivating a skilled workforce able to handle complex manufacturing processes and adhere to stringent quality standards.
 
@@ -36,7 +36,7 @@ The government’s emphasis on STEM (Science, Technology, Engineering, and Mathe
 
 ### Strong Government Incentives and Policy Support
 
-Vietnam’s government has been proactive in crafting policies that foster pharmaceutical manufacturing growth, recognizing its value for national health and economic diversification. The National Strategy on Pharmaceutical Development (2021-2030) outlines goals to expand domestic pharmaceutical production capacity to meet at least 70% of the local demand by 2030.
+Vietnam’s government has been proactive in crafting policies that foster pharmaceutical manufacturing growth, recognizing its value for national health and economic diversification. The National Strategy on Pharmaceutical Development (2021-2030) outlines goals to expand domestic pharmaceutical production capacity to meet about 80% of national demand by volume and roughly 70% of market value by 2030 ((Decision No.1165/QĐ-TTg and earlier Decision No.376/QĐ-TTg)).
 
 Key incentives include:
 
@@ -57,7 +57,7 @@ Vietnam has prioritized the establishment of industrial clusters dedicated to ph
 
 For instance, the Hoa Lac Hi-Tech Park near Hanoi is a flagship project focused on attracting high-tech and pharmaceutical manufacturing companies. It offers state-of-the-art utilities, waste treatment plants specialized for pharma effluents, and integrated logistics services.
 
-Similarly, the Hon Khoi Industrial Park in the south is rapidly developing facilities for both pharmaceutical and biotech firms, equipped with modern labs and quality testing centers to ensure product safety and efficacy.
+Similarly, industrial zones in southern provinces (e.g., Nhon Hoi, Phu My clusters) are being promoted for high-tech pharma, biotech and supporting infrastructure.
 
 These industrial parks foster ecosystem synergies—bringing raw material suppliers, manufacturers, logistics providers, and quality certifiers into close proximity. This clustering enhances operational efficiency and knowledge sharing among industry players.
 
