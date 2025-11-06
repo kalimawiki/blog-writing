@@ -30,6 +30,8 @@ Insurance costs for safeguarding APIs in transit and customs-related fees, inclu
 
 While domestic API production avoids import-associated costs, it demands significant investment in modern manufacturing facilities and compliance with stringent quality standards. Due to smaller production scales and higher input costs, local manufacturing often results in higher prices compared to imports, though government incentives are gradually narrowing this disparity.
 
+![Pharmaceutical manufacturing and API](https://res.cloudinary.com/dxyptrt7m/image/upload/v1762449290/j31a7fwjxkmhipjehv0c.jpg)
+
 ## Tariffs and Duties on API Imports
 
 Vietnam has actively aligned its tariff policies with international trade agreements to enhance pharmaceutical competitiveness and improve access to medicines. Import tariffs on APIs generally fall within preferential or zero tariff categories under agreements such as the ASEAN Free Trade Area (AFTA), the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and the EU-Vietnam Free Trade Agreement (EVFTA).
