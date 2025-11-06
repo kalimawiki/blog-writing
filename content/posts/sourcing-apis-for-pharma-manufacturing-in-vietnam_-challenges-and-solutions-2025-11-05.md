@@ -22,7 +22,7 @@ APIs are the biologically active ingredients that make medicines work. They are 
 
 In Vietnam, the pharmaceutical industry contributes significantly to the healthcare sector’s modernization. The market has been expanding steadily, driven by rising healthcare spending, population growth, and government support for domestic production. According to recent industry estimates, **Vietnam’s pharmaceutical market exceeded USD 7 billion in 2023**, with expectations to reach **USD 10 billion by 2030**.
 
-However, this growth is coupled with a persistent reliance on imported APIs. Despite having over 250 licensed pharmaceutical manufacturers, only a handful produce APIs locally — and mostly for basic or generic drugs. High-tech APIs for complex therapeutic categories, such as oncology or biologics, still come from overseas.
+However, this growth is coupled with a persistent reliance on imported APIs. Despite having 288 licensed pharmaceutical manufacturing facilities[^1], only a handful produce APIs locally — and mostly for basic or generic drugs. High-tech APIs for complex therapeutic categories, such as oncology or biologics, still come from overseas.
 
 ## Challenges in Sourcing APIs for Vietnam
 
@@ -54,7 +54,7 @@ In addition, currency fluctuations and import tariffs contribute to unstable inp
 
 Despite government ambitions to develop domestic API manufacturing, Vietnam’s current production remains small-scale and fragmented. The sector faces hurdles such as high capital investment requirements, lack of advanced chemical synthesis technology, limited R&D infrastructure, and challenges in meeting international quality standards.
 
-A 2024 report by the **Vietnam Pharmaceutical Companies Association (VNPCA)** noted that fewer than **10% of domestic manufacturers produce APIs**, mostly targeting common antibiotics, vitamins, and analgesics. Complex APIs, such as cardiovascular drugs or antiretrovirals, are still largely imported.
+Additionally, 90% of APIs required for domestic pharmaceutical manufacturing are imported[^2], mostly targeting common antibiotics, vitamins, and analgesics. Complex APIs, such as cardiovascular drugs or antiretrovirals, are still largely imported.
 
 ### 6. Supplier Certification and Traceability Issues
 
@@ -108,7 +108,7 @@ Several Vietnamese companies are already demonstrating that proactive strategies
 * **DHG Pharma** has pursued technology transfer partnerships with Japanese and South Korean firms, improving both the quality and consistency of imported APIs.
 * **Imexpharm**, another major player, has invested in automation and predictive inventory systems, enabling better control over sourcing costs and delivery timelines.
 
-Beyond these large players, smaller pharmaceutical firms are also finding creative ways to adapt. **Mediplantex**, for example, has established direct relationships with certified API manufacturers in India to reduce dependency on middlemen, lowering procurement costs by nearly 10%. Meanwhile, **Stada Vietnam** has implemented hybrid sourcing — combining regional suppliers for generic APIs with EU-certified sources for high-value formulations — balancing quality and cost.
+Beyond these large players, smaller pharmaceutical firms are also finding creative ways to adapt. **Mediplantex**, for example, has established direct relationships with certified API manufacturers in India to reduce dependency on middlemen, thereby lowering procurement costs. Meanwhile, **Stada Vietnam** has implemented hybrid sourcing — combining regional suppliers for generic APIs with EU-certified sources for high-value formulations — balancing quality and cost.
 
 Industry collaboration is also becoming more visible. In 2024, several companies in Ho Chi Minh City formed an API sourcing consortium aimed at sharing supplier data, negotiating better import terms, and collectively auditing overseas manufacturers. This cooperative model allows smaller firms to leverage collective bargaining power while enhancing transparency and regulatory compliance.
 
@@ -127,3 +127,6 @@ At the same time, the adoption of digital procurement systems and regional trade
 Sourcing APIs effectively is not just a procurement exercise — it’s a strategic function that determines the sustainability and competitiveness of Vietnam’s pharmaceutical industry. By addressing regulatory complexity, enhancing supplier relationships, investing in technology, and encouraging local API production, Vietnam can gradually reduce its dependency on imports while ensuring high-quality, affordable medicines for its population.
 
 As the country continues to evolve into a regional pharma hub, the ability to secure reliable and transparent API supply chains will be central to its success.
+
+[^1]: KPMG, 2025; Future Value of Vietnam's Generics Market
+[^2]: FPT Securities, 2020; Pharmaceutical Industry Update
