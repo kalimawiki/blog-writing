@@ -2,7 +2,7 @@
 title: "The Economics of API Imports in Vietnam: Cost Analysis, Tariffs, and Incentives for Pharma Companies"
 date: 2025-11-07T16:06:00+07:00
 draft: false
-tags: ["Pharmaceutical Manufacturing", "API Imports", "Vietnam", "Economics", "Tariffs"]
+tags: ["Pharmaceutical Manufacturing", "API Imports", "Vietnam", "Economics", "Tariffs", "Supply Chain"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1762449380/hy0clg1ydq4arnemzrvr.jpg"
   alt: "Pharmaceutical manufacturing and API imports concept"
