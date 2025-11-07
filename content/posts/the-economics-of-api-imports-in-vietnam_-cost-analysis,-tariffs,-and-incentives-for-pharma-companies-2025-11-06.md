@@ -135,15 +135,13 @@ Vietnam’s long-term goal of reducing API import dependency will depend on the 
 * **Localized API Clusters:** Development of pharma industrial parks in Binh Duong, Hai Duong, and Da Nang to host vertically integrated API production facilities.
 * **Increased FDI:** Foreign investors from Japan, South Korea, and India are expected to continue investing in Vietnamese manufacturing bases due to cost competitiveness and trade access.
 * **Regulatory Harmonization:** Continued alignment with ICH and WHO standards to facilitate both local production and export readiness.
-* **Integration with ASEAN Supply Chains:** As part of RCEP and ATIGA frameworks, Vietnam may evolve into a regional API formulation and export hub, complementing rather than competing with China and India.
+* **Integration with ASEAN Supply Chains:** As part of the RCEP and ATIGA frameworks, Vietnam may evolve into a regional API formulation and export hub, complementing rather than competing with China and India.
 
 ## Conclusion
 
 The economics of API imports in Vietnam reflect a complex balance between dependency, cost efficiency, and strategic development. While imports remain vital to sustaining pharmaceutical manufacturing today, a growing ecosystem of incentives, technology partnerships, and regulatory modernization is gradually laying the foundation for local API capacity.
 
-By optimizing cost structures, diversifying suppliers, and leveraging government support, Vietnamese pharma companies can strengthen their competitiveness in a volatile global market. The path ahead is not without challenges, but with sustained policy focus and private sector innovation, Vietnam is well positioned to transition from a cost-sensitive importer to a strategic producer in the regional pharmaceutical value chain.
-
-## References
+By optimizing cost structures, diversifying suppliers, and leveraging government support, Vietnamese pharma companies can strengthen their competitiveness in a volatile global market. The path ahead is not without challenges, but with sustained policy focus and private sector innovation, Vietnam is well-positioned to transition from a cost-sensitive importer to a strategic producer in the regional pharmaceutical value chain.
 
 [^1]: IMARC Group, Vietnam Pharmaceutical Market Forecast 2024–2030
 [^2]: Fitch Solutions, Vietnam Pharmaceuticals & Healthcare Report Q2 2024
