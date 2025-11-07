@@ -2,7 +2,7 @@
 title: "Overview of Pharma Manufacturing and API Imports in Vietnam: Current Landscape and Market Dynamics"
 date: 2025-10-22T10:00:00+07:00
 draft: false
-tags: ["Pharma Manufacturing", "API Imports", "Vietnam", "Pharmaceutical Industry", "Supply Chain"]
+tags: ["Pharmaceutical Manufacturing", "API Imports", "Vietnam", "Procurement", "Supply Chain"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1761135063/ipklrvb4aje5kdaq90nc.jpg"
   alt: "Pharmaceutical manufacturing and API imports in Vietnam"
