@@ -2,7 +2,7 @@
 title: "Sourcing APIs for Pharma Manufacturing in Vietnam: Challenges and Solutions"
 date: 2025-11-05T10:00:00+07:00
 draft: false
-tags: ["Pharmaceutical Manufacturing", "API Imports", "Vietnam"]
+tags: ["Pharmaceutical Manufacturing", "API Imports", "Vietnam", "Procurement"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1762362997/sfvgwkn2uf2ns8xbsbim.jpg"
   alt: "Modern pharmaceutical manufacturing facility"
