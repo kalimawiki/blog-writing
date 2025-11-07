@@ -12,7 +12,7 @@ cover:
 
 As Vietnam accelerates its push to become a regional hub for pharmaceutical manufacturing, Active Pharmaceutical Ingredient (API) imports continue to play a central economic role. APIs are the essential chemical or biological compounds that give medicines their therapeutic effect — and for Vietnam, they represent both a strategic dependency and an economic opportunity.
 
-Although Vietnam’s pharmaceutical market exceeded USD 7 billion in 2023 and is forecast to surpass USD 10 billion by 2030 (IMARC Group, 2024), the country still imports nearly 90% of its API requirements, primarily from China and India. This reliance impacts not just production continuity but also the cost structure, pricing strategy, and profit margins of domestic pharmaceutical manufacturers.
+Although Vietnam’s pharmaceutical market exceeded USD 7 billion in 2023 and is forecast to surpass USD 10 billion by 2030[^1], the country still imports nearly 90% of its API requirements, primarily from China and India. This reliance impacts not just production continuity but also the cost structure, pricing strategy, and profit margins of domestic pharmaceutical manufacturers.
 
 This article breaks down the economics behind Vietnam’s API imports — analyzing cost components, import tariffs, logistics and supply chain expenses, and government incentives designed to encourage both cost efficiency and local API production. It also discusses emerging strategies that Vietnamese pharma companies are adopting to balance dependency with sustainability.
 
@@ -20,19 +20,19 @@ This article breaks down the economics behind Vietnam’s API imports — analyz
 
 Understanding API economics starts with examining the layers of cost that contribute to final production expenses. API imports in Vietnam typically involve **five major cost categories**:
 
-1. **Base Purchase Cost** — The ex-factory price charged by overseas producers (mostly from China and India).
+1. Base Purchase Cost — The ex-factory price charged by overseas producers (mostly from China and India).
 
-2. **Freight and Logistics** — Costs associated with international shipping, customs clearance, and inland transport to Vietnamese manufacturing sites.
+2. Freight and Logistics — Costs associated with international shipping, customs clearance, and inland transport to Vietnamese manufacturing sites.
 
-3. **Tariffs and Taxes** — Import duties, VAT, and other administrative fees.
+3. Tariffs and Taxes — Import duties, VAT, and other administrative fees.
 
-4. **Quality Control and Certification** — Costs for laboratory testing, certification, and regulatory compliance with the Drug Administration of Vietnam (DAV).
+4. Quality Control and Certification — Costs for laboratory testing, certification, and regulatory compliance with the Drug Administration of Vietnam (DAV).
 
-5. **Currency and Financing Costs** — Exchange rate fluctuations and trade financing for import payments.
+5. Currency and Financing Costs — Exchange rate fluctuations and trade financing for import payments.
 
 ### 1. Base Purchase Price
 
-On average, APIs sourced from China are priced 10–25% lower than those from India or Europe, largely due to economies of scale and lower production costs. However, prices vary significantly depending on molecular complexity — generic APIs like paracetamol are priced as low as USD 25–30 per kilogram, while oncology APIs or biologics precursors can exceed USD 1,000 per kilogram (Fitch Solutions, 2024).
+On average, APIs sourced from China are priced 10–25% lower than those from India or Europe, largely due to economies of scale and lower production costs. However, prices vary significantly depending on molecular complexity — generic APIs like paracetamol are priced as low as USD 25–30 per kilogram, while oncology APIs or biologics precursors can exceed USD 1,000 per kilogram[^2].
 
 Vietnamese manufacturers often seek dual sourcing arrangements — combining lower-cost Chinese suppliers with Indian or European partners who meet higher GMP or EMA standards. This dual model allows firms to balance cost efficiency with regulatory compliance, especially for export-oriented products.
 
@@ -40,7 +40,7 @@ Vietnamese manufacturers often seek dual sourcing arrangements — combining low
 
 Logistics costs typically add 8–12% to the landed API price. The figure includes international freight (often via Hai Phong or Cat Lai ports), customs handling, warehousing, and last-mile distribution to manufacturing facilities.
 
-Rising fuel costs and container shortages since 2021 have caused freight price spikes of up to 40% year-on-year. To mitigate this, some pharmaceutical importers are now using bonded warehouses near ports to consolidate shipments and optimize customs procedures — a move supported by the Ministry of Industry and Trade (MOIT) under its 2024 logistics modernization initiative.
+Rising fuel costs and container shortages since 2021 have caused freight price spikes of up to 40% year-on-year. To mitigate this, some pharmaceutical importers are now using bonded warehouses near ports to consolidate shipments and optimize customs procedures — a move supported by the Ministry of Industry and Trade (MOIT) under its 2024 logistics modernization initiative[^3].
 
 ### 3. Tariffs, Taxes, and Import Fees
 
@@ -50,7 +50,7 @@ Under Vietnam’s **Most Favored Nation (MFN)** status with the World Trade Orga
 
 * **Regional Comprehensive Economic Partnership (RCEP)** — reducing duties on APIs imported from China, Japan, and South Korea.
 
-* **EU-Vietnam Free Trade Agreement (EVFTA)** — which has already phased out tariffs on over 97% of API and pharmaceutical inputs as of 2023 (European Commission, 2023).
+* **EU-Vietnam Free Trade Agreement (EVFTA)** — which has already phased out tariffs on over 97% of API and pharmaceutical inputs as of 2023[^4].
 
 In addition to customs duties, **Value Added Tax (VAT)** of 5% applies to imported pharmaceutical materials, although companies can claim input tax credits. Administrative charges for customs inspection and documentation typically add another 0.5–1% to total import costs.
 
@@ -58,7 +58,7 @@ In addition to customs duties, **Value Added Tax (VAT)** of 5% applies to import
 
 Vietnam’s Drug Administration (DAV) requires all imported APIs to be registered with a complete dossier of quality documents, including GMP certification, Certificate of Analysis (CoA), and proof of origin. Verification, sample testing, and auditing costs can represent **3–5% of the landed cost**, especially for APIs used in critical drugs.
 
-Companies sourcing from new or smaller suppliers face higher verification expenses due to the need for on-site inspections or third-party audits. Meanwhile, regulatory modernization under the Pharmaceutical Law Amendment (2024) aims to accelerate dossier review times from 12 months to 6 months, potentially reducing administrative costs over time (MOH Vietnam, 2024).
+Companies sourcing from new or smaller suppliers face higher verification expenses due to the need for on-site inspections or third-party audits. Meanwhile, regulatory modernization under the Pharmaceutical Law Amendment (2024) aims to accelerate dossier review times from 12 months to 6 months, potentially reducing administrative costs over time.
 
 ### 5. Currency and Financial Risks
 
@@ -76,7 +76,7 @@ Fluctuations in API prices directly influence medicine retail prices. A 10% rise
 
 ### 2. Trade Balance and Foreign Exchange Impact
 
-APIs account for approximately **50–60% of Vietnam’s total pharmaceutical import value**, estimated at **USD 1.2–1.5 billion annually** (Statista, 2024). Heavy reliance on imports places downward pressure on the national trade balance and increases foreign currency outflows, reinforcing the need for domestic API development.
+APIs account for approximately **50–60% of Vietnam’s total pharmaceutical import value**, estimated at **USD 1.2–1.5 billion annually**[^5]. Heavy reliance on imports places downward pressure on the national trade balance and increases foreign currency outflows, reinforcing the need for domestic API development.
 
 ### 3. Industrial Upgrading and Technology Transfer
 
@@ -90,7 +90,7 @@ Vietnam’s government recognizes the strategic vulnerability posed by API depen
 
 ### 1. Tax Incentives for Domestic API Production
 
-Under the Law on Investment (2020, amended 2022), API manufacturing projects are classified as “specially encouraged industries.” Investors benefit from:
+Under the Law on Investment[^6], API manufacturing projects are classified as “specially encouraged industries.” Investors benefit from:
 
 * **Corporate Income Tax (CIT)** exemptions for up to 4 years and 50% reductions for the following 9 years.
 * **Import duty exemptions** for machinery, equipment, and raw materials not produced locally.
@@ -106,7 +106,7 @@ The Ministry of Health has also collaborated with international agencies such as
 
 ### 3. Streamlined Import Procedures
 
-Recognizing that short-term import dependence will remain, Vietnam’s Ministry of Health has introduced digital licensing systems to reduce bureaucratic friction in API imports. The DAV e-submission portal launched in 2024 enables online tracking of application status, estimated to shorten import licensing times by 30–40% (DAV, 2024).
+Recognizing that short-term import dependence will remain, Vietnam’s Ministry of Health has introduced digital licensing systems to reduce bureaucratic friction in API imports. The DAV e-submission portal launched in 2024 enables online tracking of application status, estimated to shorten import licensing times by 30–40%[^7].
 
 ## Strategic Solutions for Pharma Companies
 
@@ -126,7 +126,7 @@ Pharma firms are turning to digital procurement platforms that leverage AI to ev
 
 ### 4. Sustainability and Green Chemistry
 
-Environmental compliance costs are rising globally. Vietnamese companies adopting green synthesis technologies — reducing solvent waste and emissions — can not only lower environmental taxes but also qualify for international ESG-linked financing and export advantages under green certification programs (UNIDO, 2024).
+Environmental compliance costs are rising globally. Vietnamese companies adopting green synthesis technologies — reducing solvent waste and emissions — can not only lower environmental taxes but also qualify for international ESG-linked financing and export advantages under green certification programs[^8].
 
 ## Future Outlook: Balancing Dependency and Growth
 
@@ -145,12 +145,11 @@ By optimizing cost structures, diversifying suppliers, and leveraging government
 
 ## References
 
-1. Ministry of Industry and Trade (MOIT), Vietnam Logistics Modernization Report 2024
-2. Drug Administration of Vietnam (DAV), E-Submission Portal Announcement 2024
-3. IMARC Group, Vietnam Pharmaceutical Market Forecast 2024–2030
-4. Statista, Vietnam Pharma Imports and API Market Data, 2024
-5. Fitch Solutions, Vietnam Pharmaceuticals & Healthcare Report Q2 2024
-6. Vietnam Investment Review (VIR), Tax Incentives for Pharmaceutical Manufacturing 2024
-7. European Commission, EVFTA Tariff Elimination Schedules 2023
-8. WHO & UNIDO, Green Chemistry in Pharma Manufacturing, ASEAN Report 2024
-
+[^1]: IMARC Group, Vietnam Pharmaceutical Market Forecast 2024–2030
+[^2]: Fitch Solutions, Vietnam Pharmaceuticals & Healthcare Report Q2 2024
+[^3]: Ministry of Industry and Trade (MOIT), Vietnam Logistics Modernization Report 2024
+[^4]: European Commission, EVFTA Tariff Elimination Schedules 2023
+[^5]: Statista, Vietnam Pharma Imports and API Market Data, 2024
+[^6]: Vietnam Investment Review (VIR), Tax Incentives for Pharmaceutical Manufacturing 2024
+[^7]: Drug Administration of Vietnam (DAV), E-Submission Portal Announcement 2024
+[^8]: WHO & UNIDO, Green Chemistry in Pharma Manufacturing, ASEAN Report 2024
