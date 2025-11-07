@@ -2,7 +2,7 @@
 title: "How Vietnam is Positioning Itself as a Hub for Pharmaceutical Manufacturing in Southeast Asia"
 date: 2025-11-03T10:00:00+07:00
 draft: false
-tags: ["Pharmaceutical Manufacturing", "Vietnam Pharma", "API Imports", "Southeast Asia Pharma"]
+tags: ["Pharmaceutical Manufacturing", "Vietnam", "API Imports", "Southeast Asia"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1762102271/ptpamgmhjtg3raui1v8z.jpg"
   alt: "Modern Pharmaceutical Manufacturing Facility"
