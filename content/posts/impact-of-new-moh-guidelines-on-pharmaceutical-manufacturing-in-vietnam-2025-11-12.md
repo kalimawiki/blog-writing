@@ -37,8 +37,6 @@ Under **Circular No. 03/2023/TT-BYT**, effective from late 2023, all domestic ma
 - Routine quality-risk management documentation.  
 - Expanded validation protocols for APIs, excipients, and packaging materials.  
 
-Manufacturers that fail to obtain updated GMP certificates risk suspension of manufacturing licenses or exclusion from public-procurement lists [[DAV, 2024](https://drugadministration.gov.vn)].  
-
 ### 2. Faster Drug Registration and E-Licensing
 
 The **Circular No. 08/2022/TT-BYT** and subsequent 2024 updates introduced a centralized e-submission system for drug registration and import licensing. The DAV’s new portal allows online dossier submission, document tracking, and digital signatures — reducing administrative processing times by 30–40% compared with pre-2022 procedures [[MOH Vietnam, 2024](https://moh.gov.vn)].  
@@ -53,13 +51,13 @@ These rules enhance transparency and align Vietnam’s drug-safety ecosystem wit
 
 ### 4. Local Content and Technology Transfer Requirements
 
-Under the **National Pharmaceutical Industry Development Strategy 2021–2030 (Decision 1165/QĐ-TTg)**, the government promotes local production of essential medicines and APIs. Recent MOH guidelines encourage joint ventures between domestic firms and international API producers to facilitate technology transfer and capacity-building.  
+Under the **National Pharmaceutical Industry Development Strategy 2020–2045 (Decision 1165/QĐ-TTg)**, the government promotes local production of essential medicines and APIs. Recent MOH guidelines encourage joint ventures between domestic firms and international API producers to facilitate technology transfer and capacity-building.  
 
-By 2030, Vietnam aims to locally produce 60% of total pharmaceutical demand and 70% of essential medicines [[FIA Vietnam, 2024](https://fia.mpi.gov.vn)].  
+By 2030, Vietnam aims to locally produce 60% of total pharmaceutical demand and 70% of essential medicines [[Thu Vien Phap Luat, 2023](https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Decision-1165-QD-TTg-2023-National-Strategy-for-Vietnam-s-Pharmaceutical-Industry-Development-582565.aspx)].
 
 ### 5. Environmental and Green Manufacturing Standards
 
-Reflecting global ESG trends, the MOH and Ministry of Natural Resources & Environment issued new guidance integrating green chemistry and sustainable waste management into GMP audits. Factories must now track solvent usage and emission data to maintain certification [[UNIDO, 2024](https://www.unido.org)].  
+Reflecting global ESG trends, the MOH and the Ministry of Natural Resources & Environment issued new guidance integrating green chemistry and sustainable waste management into GMP audits. Factories must now track solvent usage and emission data to maintain certification [[UNIDO, 2024](https://www.unido.org)].  
 
 ## How the Guidelines Impact Pharmaceutical Manufacturers
 
@@ -150,9 +148,8 @@ As regulatory convergence continues and domestic capabilities mature, Vietnam’
 
 1. Vietnam News (2024). *Pharmaceutical industry sees slowing growth momentum but solid fundamentals.*  
 2. Vietnam Investment Review (2023–2024). *Pharma to experience robust growth; investment and compliance updates.*  
-3. Drug Administration of Vietnam (2024). *Circulars 03/2023 & 37/2023 – MOH updates on GMP and pharmacovigilance.*  
-4. Ministry of Health Vietnam (2024). *E-licensing platform announcement.*  
-5. KPMG (2025). *Future Value of Vietnam’s Generics Market.*  
-6. Foreign Investment Agency (FIA, 2024). *National Strategy 2021–2030 implementation report.*  
-7. UNIDO (2024). *Green Pharma Initiative: Sustainable manufacturing standards in ASEAN.*  
-8. Ministry of Industry and Trade (MOIT, 2024). *Industrial modernization and incentive policies.*
+3. Ministry of Health Vietnam (2024). *E-licensing platform announcement.*  
+4. KPMG (2025). *Future Value of Vietnam’s Generics Market.*  
+5. Thu Vien Phap Luat (2023). *Decision-1165-QD-TTg-2023*  
+6. UNIDO (2024). *Green Pharma Initiative: Sustainable manufacturing standards in ASEAN.*  
+7. Ministry of Industry and Trade (MOIT, 2024). *Industrial modernization and incentive policies.*
