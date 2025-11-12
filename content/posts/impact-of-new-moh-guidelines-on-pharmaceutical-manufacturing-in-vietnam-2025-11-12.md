@@ -4,7 +4,7 @@ date: 2025-11-12T10:00:00+07:00
 draft: false
 tags: ["Pharmaceutical Manufacturing", "Regulation", "Vietnam", "MOH Guidelines", "Pharmaceutical Compliance"]
 cover:
-  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1762934811/vietnam-moh-guidelines-pharma.jpg"
+  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1762949181/to89dklkhsjz0fjumxd6.jpg"
   alt: "Pharmaceutical manufacturing compliance in Vietnam"
 ---
 
@@ -90,6 +90,8 @@ While the reforms raise compliance demands, they also increase transparency and 
 ### 5. Competitive Advantage Through Quality
 
 Companies that achieve EU-GMP or PIC/S-GMP certification gain a significant competitive edge. They can export to higher-value markets and participate in international tenders. As of 2024, Vietnam had seven factories certified to EU-GMP standards, with more expected to qualify by 2026 [[Vietnam News, 2024](https://vietnamnews.vn/economy/1656408/pharmaceutical-industry-sees-slowing-growth-momentum.html)].  
+
+![Pharmaceutical manufacturing in Vietnam](https://res.cloudinary.com/dxyptrt7m/image/upload/v1762948927/cynlk1jydlourysha1ae.jpg)
 
 ## Industry Response: Case Studies and Adaptation
 
