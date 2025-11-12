@@ -4,7 +4,7 @@ date: 2025-11-12T10:00:00+07:00
 draft: false
 tags: ["Pharmaceutical Manufacturing", "Regulation", "Vietnam", "MOH Guidelines", "Pharma Compliance"]
 cover:
-  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1762934811/vietnam-moh-guidelines-pharma.jpg"
+  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1762949181/to89dklkhsjz0fjumxd6.jpg"
   alt: "Pharmaceutical manufacturing compliance in Vietnam"
 ---
 
@@ -104,6 +104,8 @@ Imexpharm invested over **US $10 million** to upgrade its Dong Thap and Binh Duo
 ### 3. Traphaco’s Sustainable Manufacturing
 
 Traphaco has adopted a “green GMP” model, introducing solvent-recycling systems and waste-neutralization processes that comply with MOH environmental standards. The model has cut water use by 30 % and earned recognition under the **UNIDO Green Pharma Initiative 2024**.  
+
+![Pharmaceutical manufacturing in Vietnam](https://res.cloudinary.com/dxyptrt7m/image/upload/v1762948927/cynlk1jydlourysha1ae.jpg)
 
 ## Challenges Ahead
 
