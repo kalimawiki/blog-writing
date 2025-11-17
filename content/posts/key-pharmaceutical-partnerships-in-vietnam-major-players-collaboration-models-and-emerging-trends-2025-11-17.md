@@ -71,6 +71,7 @@ Vietnam's diverse patient population and growing medical infrastructure have als
 The Ministry of Health sets policies that directly incentivize partnerships: tax breaks for technology transfer, streamlined approvals for joint ventures, and preferential treatment for locally-manufactured drugs in public procurement. These aren't subtle nudges—they're deliberate strategies to build domestic pharmaceutical capacity while attracting foreign investment.
 
 Public-private partnerships (PPPs) have become a signature approach, particularly for expanding healthcare access. Government agencies partner with private manufacturers to establish production facilities in underserved regions, subsidize essential medicines, and build distribution infrastructure that serves social goals alongside commercial ones.
+
 Vietnamese universities and research centers are emerging as serious collaboration partners. Institutions like Hanoi University of Pharmacy and the University of Medicine and Pharmacy in Ho Chi Minh City are no longer just training grounds—they're active research partners contributing to drug formulation studies, bioequivalence testing, and pharmacokinetic research. These academic partnerships create a talent pipeline while advancing evidence-based policymaking.
 
 The government's role extends to strategic planning: identifying priority therapeutic areas, setting domestic production targets for essential medicines, and coordinating partnerships that align commercial interests with national health objectives.
