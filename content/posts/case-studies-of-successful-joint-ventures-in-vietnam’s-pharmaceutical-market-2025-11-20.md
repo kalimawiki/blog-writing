@@ -200,7 +200,7 @@ Sanofi's three-phase approach demonstrates masterful strategic layering:
 
 Each phase built trust, demonstrated commitment, and created the foundation for the next level of investment. By 2025, Sanofi wasn't just present in Vietnam—it had built an integrated manufacturing ecosystem spanning generics, therapeutics, and biologics.
 
-** The Strategic Impact**
+**The Strategic Impact**
 
 Sanofi's decade-long commitment has created multiple layers of value:
 
@@ -312,7 +312,7 @@ The 2023 MoU established a comprehensive five-year cooperation framework (2023-2
 * **Data and insights:** Epidemiological data to target interventions effectively
 * **Institutional legitimacy:** Government backing ensures sustainability and scale
 
-** Early Progress and Implementation**
+**Early Progress and Implementation**
 
 Though comprehensive outcome data won't be available until the partnership matures, early initiatives have launched:
 
@@ -333,7 +333,7 @@ This partnership model represents a significant evolution in how pharmaceutical 
 
 * Company partners with government → co-invests in manufacturing AND healthcare capacity → improves disease detection and management → measures success by health outcomes AND commercial sustainability
 
-The innovation is treating healthcare system strengthening as part of the commercial strategy, not separate corporate social responsibility. When doctors can diagnose diseases earlier and hospitals have proper treatment protocols, demand for effective medicines increases organically—it's not just pushed through sales and marketing.
+The innovation is treating the healthcare system strengthening as part of the commercial strategy, not separate corporate social responsibility. When doctors can diagnose diseases earlier and hospitals have proper treatment protocols, demand for effective medicines increases organically—it's not just pushed through sales and marketing.
 
 ### What Makes This Work
 
