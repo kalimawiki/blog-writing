@@ -4,13 +4,13 @@ date: 2025-11-20T10:00:00+07:00
 draft: false
 tags: ["Pharmaceutical Industry", "Vietnam", "Joint Ventures", "Partnerships", "Investment"]
 cover:
-  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1763380237/u8ht0rwzeyf8s6peqgee.jpg"
+  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1763641474/oylv5vvzqlvadrkloabn.jpg"
   alt: "Business meeting representing pharmaceutical partnerships in Vietnam"
 ---
 
 ## Introduction
 
-When Japanese pharmaceutical giant Taisho wanted to crack Vietnam's booming healthcare market, it didn't build from the ground up—it bought its way to the top. By 2019, Taisho held controlling stake in DHG Pharma, one of Vietnam's pharmaceutical champions, transforming both companies in the process. It's a pattern playing out across the country: foreign pharma giants and Vietnamese firms are joining forces in ways that are reshaping one of Southeast Asia's fastest-growing healthcare markets.
+When Japanese pharmaceutical giant Taisho wanted to crack Vietnam's booming healthcare market, it didn't build from the ground up—it bought its way to the top. By 2019, Taisho held a controlling stake in DHG Pharma, one of Vietnam's pharmaceutical champions, transforming both companies in the process. It's a pattern playing out across the country: foreign pharma giants and Vietnamese firms are joining forces in ways that are reshaping one of Southeast Asia's fastest-growing healthcare markets.
 
 Vietnam's pharmaceutical market has exploded into a $7+ billion industry, fueled by 100 million consumers with rising incomes and growing healthcare needs. But here's the twist: the most successful players aren't going it alone. Instead, multinationals like Sanofi, STADA, and AstraZeneca are forming deep strategic partnerships with local companies—sharing risk, expertise, and billion-dollar infrastructure investments.
 
@@ -25,7 +25,7 @@ In this article, we examine real, documented partnerships that worked—revealin
 
 ## Case Study 1: How Japan's Taisho Took Control of Vietnam's DHG Pharma—And Made It Work
 
-**The Deal:** Between 2017 and 2019, Japanese pharmaceutical giant Taisho Pharmaceutical didn't just invest in Vietnam—it took over one of the country's largest drugmakers. By acquiring 51% of DHG Pharmaceutical JSC in April 2019, Taisho gained controlling stake in a company with deep roots in Vietnam's generics and over-the-counter medicine markets.
+**The Deal:** Between 2017 and 2019, Japanese pharmaceutical giant Taisho Pharmaceutical didn't just invest in Vietnam—it took over one of the country's largest drugmakers. By acquiring 51% of DHG Pharmaceutical JSC in April 2019, Taisho gained a controlling stake in a company with deep roots in Vietnam's generics and over-the-counter medicine markets.
 
 This wasn't a typical merger. Taisho played the long game, gradually increasing its position over several years before crossing the 50% threshold. The result? DHG remained a Vietnamese-listed company with local brand recognition, but now operated with Japanese quality systems, capital backing, and strategic direction.
 
@@ -35,7 +35,7 @@ This wasn't a typical merger. Taisho played the long game, gradually increasing 
 
 * **Instant market access:** DHG's established distribution network reached hospitals, pharmacies, and clinics nationwide—infrastructure that would take a decade to build from scratch
 * **Regional expansion base:** Vietnam positioned as a manufacturing hub for Taisho's broader Southeast Asian strategy
-* **Lower risk entry:** Acquiring a proven company with cash flow beat starting a greenfield operation
+* **Lower risk entry:** Acquiring a proven company with cash flow beats starting a greenfield operation
 
 **For DHG:**
 
