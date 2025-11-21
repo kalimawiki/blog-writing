@@ -387,8 +387,6 @@ Vietnam’s pharmaceutical market isn’t just growing—it’s being actively r
 
 These collaborations have upgraded local manufacturing to EU-GMP standards, accelerated technology transfer, expanded access to life-saving medicines, and laid the groundwork for Vietnam to become a regional powerhouse in both generics and biologics.
 
-These collaborations have upgraded local manufacturing to EU-GMP standards, accelerated technology transfer, expanded access to life-saving medicines, and laid the groundwork for Vietnam to become a regional powerhouse in both generics and biologics.
-
 For entrepreneurs and industry leaders, the message is simple but powerful:
 
 * Partnerships must be strategic, not transactional.
