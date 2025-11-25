@@ -22,18 +22,19 @@ Vietnam's pharmaceutical regulatory ecosystem has undergone significant evolutio
 
 ### 1. Streamlined Drug Registration Under Circular 08/2022 and Circular 12/2025  
 
-One of the most significant regulatory shifts came with **Circular 08/2022/TT-BYT**, which reformed how drugs and drug materials are registered in Vietnam. It officially replaced older regulations, reducing administrative burden and making dossier submissions more flexible. :contentReference[oaicite:0]{index=0}  
+One of the most significant regulatory shifts came with **Circular 08/2022/TT-BYT**, which reformed how drugs and drug materials are registered in Vietnam. It officially replaced older regulations, reducing administrative burden and making dossier submissions more flexible.
+
 Key changes include:
 
-- Less stringent requirements for Certificate of Pharmaceutical Product (CPP), especially if from a *Stringent Regulatory Authority* (SRA) such as the EMA. :contentReference[oaicite:1]{index=1}  
-- Consolidation of marketing authorization for drugs with the same active ingredients but different dosage forms into fewer registration certificates. :contentReference[oaicite:2]{index=2}  
-- Exemption criteria for local clinical trials under certain conditions (for generics, or drugs previously approved in SRA countries). :contentReference[oaicite:3]{index=3}  
+- Less stringent requirements for Certificate of Pharmaceutical Product (CPP), especially if from a *Stringent Regulatory Authority* (SRA) such as the EMA.
+- Consolidation of marketing authorization for drugs with the same active ingredients but different dosage forms into fewer registration certificates.
+- Exemption criteria for local clinical trials under certain conditions (for generics, or drugs previously approved in SRA countries).
 
-More recently, **Circular 12/2025/TT-BYT** took effect on July 1, 2025, further refining the registration process. It simplifies the classification of OTC medicines and removes some legacy requirements. :contentReference[oaicite:4]{index=4} 
+More recently, **Circular 12/2025/TT-BYT** took effect on July 1, 2025, further refining the registration process. It simplifies the classification of OTC medicines and removes some legacy requirements.
 
 ### 2. Clinical Trial Regulations: GCP & Ethics Strengthened
 
-Vietnam’s clinical trial oversight continues to be based on **Circular 29/2018/TT-BYT**, which enforces Good Clinical Practice (GCP), ethics committee review, and patient-consent standards. :contentReference[oaicite:5]{index=5}  
+Vietnam’s clinical trial oversight continues to be based on **Circular 29/2018/TT-BYT**, which enforces Good Clinical Practice (GCP), ethics committee review, and patient-consent standards.
 Recent regulatory guidance increasingly aligns with **ICH-GCP**, pushing companies to build stronger trial-monitoring systems, ensure ethical protections, and manage data transparency carefully.
 
 ### 3. Pharmacovigilance: Reporting, Safety Monitoring, and Risk Management
@@ -44,16 +45,17 @@ The MOH requires drug sponsors and license-holders to maintain active pharmacovi
 - Periodic safety reporting (e.g., PSURs or equivalent) for certain products  
 - Implementation of risk-management measures tailored to specific drug safety profiles  
 
-These systems are already standard in many global pharma markets, but **Vietnam has formalized expectations** in its regulatory guidance. :contentReference[oaicite:6]{index=6}  
+These systems are already standard in many global pharma markets, but **Vietnam has formalized expectations** in its regulatory guidance.  
 
 ### 4. Health Insurance & Pricing: Circular 37/2024 Reform
 
-On January 1, 2025, **Circular 37/2024/TT-BYT** came into force, reshaping how drugs are reimbursed under Vietnam’s national health insurance. :contentReference[oaicite:7]{index=7}  
+On January 1, 2025, **Circular 37/2024/TT-BYT** came into force, reshaping how drugs are reimbursed under Vietnam’s national health insurance.
+
 Key reform points include:
 
-- **Removal of hospital-class drug lists**: Previously, drug reimbursement lists were tiered by hospital classification; now there’s a unified list across facility types. :contentReference[oaicite:8]{index=8}  
-- **Transparent and regular updating of the reimbursed drug list**, based on cost-effectiveness, clinical relevance, and budget impact. :contentReference[oaicite:9]{index=9}  
-- **Inclusion criteria for orphan, high-cost, or innovative drugs**, with reimbursement considered when clinical and economic evidence is available. :contentReference[oaicite:10]{index=10}  
+- **Removal of hospital-class drug lists**: Previously, drug reimbursement lists were tiered by hospital classification; now there’s a unified list across facility types.
+- **Transparent and regular updating of the reimbursed drug list**, based on cost-effectiveness, clinical relevance, and budget impact. 
+- **Inclusion criteria for orphan, high-cost, or innovative drugs**, with reimbursement considered when clinical and economic evidence is available.
 
 ### 5. Labeling & Packaging Standards
 
@@ -142,12 +144,3 @@ This holistic approach ensured timely market entry, regulatory compliance, and e
 The pharmaceutical regulatory environment in Vietnam is advancing rapidly, with the Ministry of Health spearheading reforms aimed at enhancing product safety, accelerating innovation, and expanding access to essential medicines. While these changes introduce new complexities, they also open pathways for companies prepared to adapt efficiently and strategically.
 
 Success in this evolving landscape demands continuous education, investments in compliance infrastructure, proactive stakeholder engagement, and digital adoption. Pharmaceutical companies embracing these principles will find Vietnam a promising and sustainable market for growth.
-
-## Sources
-
-1. Circular No. 08/2022/TT-BYT on drug registration. :contentReference[oaicite:11]{index=11}  
-2. Circular No. 12/2025/TT-BYT on drug registration (effective July 1, 2025). :contentReference[oaicite:12]{index=12}  
-3. Clinical trial regulation: Circular No. 29/2018/TT-BYT (GCP). :contentReference[oaicite:13]{index=13}  
-4. Circular No. 37/2024/TT-BYT on health insurance drug list & reimbursement. :contentReference[oaicite:14]{index=14}  
-5. Policy reform removing hospital-class drug lists. :contentReference[oaicite:15]{index=15}  
-6. Health insurance inclusion criteria, orphan drugs, cost-effectiveness. :contentReference[oaicite:16]{index=16}  
