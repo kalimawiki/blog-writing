@@ -18,7 +18,7 @@ This post explores key recent regulatory updates issued by the MOH and discusses
 
 ## Recent Key MOH Regulatory Updates
 
-Vietnam's pharmaceutical regulatory ecosystem has undergone significant evolution over recent years, with the MOH introducing comprehensive reforms to modernize standards in line with global best practices. Below are the core areas where noteworthy updates have been implemented:
+Vietnam's pharmaceutical regulatory ecosystem has undergone significant evolution over recent years, with the MOH introducing comprehensive reforms to modernize standards in line with global best practices. Below are the core areas where noteworthy updates have been implemented:
 
 ### 1. Revised Drug Approval Procedures
 
@@ -28,11 +28,11 @@ The MOH has introduced reforms aimed at simplifying and expediting the drug regi
 - **Clearer Submission Guidelines:** To reduce back-and-forth clarifications, the MOH released detailed checklists and templates for the documentation required during submission, improving completeness and consistency.
 - **Priority Review Mechanisms:** Certain categories, such as orphan drugs, essential medicines, or those addressing urgent public health needs, may benefit from priority reviews, accelerating their route to market.
 
-These changes reflect MOH's goal to strike a balance between swift drug availability and robust patient protection.
+These changes reflect MOH's goal to strike a balance between swift drug availability and robust patient protection.
 
 ### 2. Enhanced Clinical Trial Regulations
 
-Clinical trials are foundational to ensuring new medicines demonstrate efficacy and safety before broad use. Vietnam7s updated guidelines bring greater alignment with international ethical and scientific standards.
+Clinical trials are foundational to ensuring new medicines demonstrate efficacy and safety before broad use. Vietnam's updated guidelines bring greater alignment with international ethical and scientific standards.
 
 - **Stricter Ethical Requirements:** Institutional review boards (IRBs) and ethics committees now enforce more detailed informed consent processes that ensure participants understand risks and benefits fully.
 - **Monitoring and Auditing:** Sponsors must engage in active trial monitoring and ensure timely reporting of adverse events or protocol deviations to regulatory authorities.
@@ -45,14 +45,14 @@ These upgrades are intended to bolster confidence in trial results and protect t
 The MOH has moved toward a more proactive pharmacovigilance environment post-market authorization. This includes:
 
 - **Adverse Drug Reaction (ADR) Reporting:** Companies must develop systems that capture, analyze, and submit ADR reports within defined timelines.
-- **Periodic Safety Update Reports (PSURs):** Mandatory submission of comprehensive safety evaluations periodically provides regulators with ongoing insights into a drug7s risk profile.
+- **Periodic Safety Update Reports (PSURs):** Mandatory submission of comprehensive safety evaluations periodically provides regulators with ongoing insights into a drug's risk profile.
 - **Risk Management Plans:** Emphasis is placed on anticipating potential risks and planning mitigation strategies from early development through the product lifecycle.
 
 Strengthening pharmacovigilance not only safeguards patients but also mitigates risks of costly regulatory actions or product withdrawals.
 
 ### 4. Pricing and Reimbursement Policy Adjustments
 
-Ensuring affordability while maintaining market viability is a challenging policy balance. The MOH's latest adjustments include:
+Ensuring affordability while maintaining market viability is a challenging policy balance. The MOH's latest adjustments include:
 
 - **Price Control Frameworks:** Updated approaches to pricing caps and reference pricing to prevent excessive drug costs, particularly for essential medicines.
 - **Negotiated Pricing:** Frameworks for negotiations between manufacturers and health insurers seek fair prices based on therapeutic value and budget impact.
