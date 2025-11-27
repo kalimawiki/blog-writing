@@ -68,7 +68,7 @@ The foundation of API quality control begins before the first shipment arrives. 
 
 * *Initial Vetting Process* - Manufacturers should evaluate potential API suppliers using a comprehensive scorecard that includes regulatory compliance history, GMP certification status, production capacity, quality system maturity, and financial stability. This assessment should review whether suppliers hold certifications from recognized bodies like the US FDA, European Directorate for the Quality of Medicines (EDQM), or WHO. References from other pharmaceutical companies provide invaluable insights into supplier reliability and responsiveness during quality investigations.
 
-* *On-Site and Remote Audits* - Initial qualification should include on-site audits of the API manufacturing facility whenever possible. These audits examine production processes, quality control laboratories, raw material handling, documentation systems, and staff training programs. For established suppliers, periodic re-audits (typically every 2-3 years, or more frequently for high-risk materials) verify continued compliance. Remote audits via video conferencing have become more acceptable post-pandemic but should be supplemented with periodic physical visits for critical suppliers.
+* *On-Site and Remote Audits* - Initial qualification should include on-site audits of the API manufacturing facility whenever possible. These audits examine production processes, quality control laboratories, raw material handling, documentation systems, and staff training programs. For established suppliers, periodic re-audits (typically every 2-3 years, or more frequently for high-risk materials) verify continued compliance. Remote audits via video conferencing have become more acceptable post-pandemic, but should be supplemented with periodic physical visits for critical suppliers.
 
 * *Performance Monitoring* - Beyond formal audits, manufacturers should continuously monitor supplier performance through metrics like on-time delivery rates, certificate accuracy, batch rejection rates, and responsiveness to quality queries. Suppliers demonstrating consistent excellence may earn "approved" or "preferred" status, while those with recurring issues face increased scrutiny or disqualification.
 
@@ -78,9 +78,9 @@ Even the most reputable suppliers warrant verification. Vietnamese manufacturers
 
 * *Incoming Material Testing* - Upon receipt, each API lot undergoes multiple tests: identity verification (confirming the material is what it claims to be), assay testing (measuring potency and concentration), impurity profiling (detecting residual solvents, heavy metals, and related substances), and microbial testing for non-sterile APIs. Sophisticated techniques like high-performance liquid chromatography (HPLC), gas chromatography-mass spectrometry (GC-MS), and Fourier-transform infrared spectroscopy (FTIR) provide detailed chemical fingerprints that catch even subtle quality deviations.
 
-* *Stability Testing Programs* - APIs must maintain their quality throughout their shelf life under various storage conditions. Manufacturers conduct stability studies exposing API samples to controlled temperature and humidity conditions over extended periods (typically 6-36 months), testing at regular intervals to detect degradation. These studies inform storage requirements, retest dates, and expiration dating for both APIs and finished products.
+* *Stability Testing Programs* - APIs must maintain their quality throughout their shelf life under various storage conditions. Manufacturers conduct stability studies exposing API samples to controlled temperature and humidity conditions over extended periods (typically 6-36 months), testing at regular intervals to detect degradation. These studies inform storage requirements, retest dates, and expiration dates for both APIs and finished products.
 
-* *Risk-Based Testing Strategies* - While comprehensive testing is ideal, practical constraints require prioritization. Manufacturers increasingly adopt risk-based approaches that intensify testing for high-risk APIs (those with complex chemistry, new suppliers, or previous quality issues) while streamlining protocols for well-established materials from trusted sources. However, even low-risk materials undergo periodic full testing to verify ongoing quality.
+* *Risk-Based Testing Strategies* - While comprehensive testing is ideal, practical constraints require prioritisation. Manufacturers increasingly adopt risk-based approaches that intensify testing for high-risk APIs (those with complex chemistry, new suppliers, or previous quality issues) while streamlining protocols for well-established materials from trusted sources. However, even low-risk materials undergo periodic full testing to verify ongoing quality.
 
 ### Documentation, Traceability, and Record Management
 
@@ -100,7 +100,7 @@ Vietnamese pharmaceutical manufacturers increasingly recognize that meeting loca
 
 * *ICH Guidelines* - The International Council for Harmonisation develops guidelines accepted by regulatory authorities in the US, EU, Japan, and other major markets. ICH Q7 specifically addresses GMP for APIs, while other ICH guidelines cover topics like stability testing (Q1), impurities (Q3), and quality risk management (Q9).
 
-* *Pharmacopoeial Standards* - The United States Pharmacopeia (USP) and European Pharmacopoeia (EP) provide detailed monographs specifying acceptable quality parameters for thousands of APIs. Vietnamese manufacturers producing for export ensure their APIs meet relevant USP or EP specifications, while domestic products increasingly adopt these standards voluntarily to ensure quality.
+* *Pharmacopoeial Standards* - The United States Pharmacopoeia (USP) and European Pharmacopoeia (EP) provide detailed monographs specifying acceptable quality parameters for thousands of APIs. Vietnamese manufacturers producing for export ensure their APIs meet relevant USP or EP specifications, while domestic products increasingly adopt these standards voluntarily to ensure quality.
 
 * *ISO Certification* - Some manufacturers pursue ISO 9001 (quality management systems) or ISO 13485 (medical devices) certification as additional quality credentialing, particularly when serving export markets or partnering with multinational pharmaceutical companies.
 
@@ -112,7 +112,7 @@ Technology and procedures alone cannot ensure quality—people make the differen
 
 * *Continuous Education* - Pharmaceutical quality standards evolve continuously. Regular refresher training, updates on regulatory changes, and workshops on emerging technologies keep staff current. Some companies require annual GMP recertification for all employees involved in manufacturing or quality operations.
 
-* *Quality Culture Development* - Beyond formal training, successful manufacturers cultivate a quality culture where every employee feels empowered and obligated to speak up about potential quality issues. This culture emphasizes that quality is everyone's responsibility, not just the quality department's domain. Management commitment, visible quality leadership, and recognition programs reinforce these values daily.
+* *Quality Culture Development* - Beyond formal training, successful manufacturers cultivate a quality culture where every employee feels empowered and obligated to speak up about potential quality issues. This culture emphasises that quality is everyone's responsibility, not just the quality department's domain. Management commitment, visible quality leadership, and recognition programs reinforce these values daily.
 
 ## The Role of Technology in Enhancing Quality and Compliance
 
@@ -126,7 +126,7 @@ Modern cloud-based QMS platforms centralize quality data, automate workflows, an
 
 Digital supply chain platforms provide real-time visibility into API shipments, inventory levels, and batch genealogy. Integration with supplier systems enables automated alerts for shipping delays, certificate expirations, or quality notifications. Advanced track-and-trace capabilities using barcodes, QR codes, or RFID tags create immutable records of material movement from supplier to finished product, dramatically improving recall precision and speed.
 
-**Automated Laboratory Testing*8
+**Automated Laboratory Testing**
 
 Laboratory automation increases testing throughput while reducing human error. Automated systems handle sample preparation, analysis, and data recording with minimal manual intervention. This technology enables faster batch release decisions and frees analysts to focus on investigating anomalies rather than routine testing.
 
